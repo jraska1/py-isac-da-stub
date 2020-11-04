@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ds:dasta xmlns:ds="urn:cz-mzcr:ns:dasta:ds4:ds_dasta"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:dsip="urn:cz-mzcr:ns:dasta:ds4:ds_ip"
+	xsi:schemaLocation="urn:cz-mzcr:ns:dasta:ds4:ds_dasta http://ciselniky.dasta.mzcr.cz/xmlschema/ds_dasta-4.03.22.xsd urn:cz-mzcr:ns:dasta:ds4:ds_ip http://ciselniky.dasta.mzcr.cz/xmlschema/ds_ip-4.10.03.xsd"
+	id_soubor="MEDICALC_KK11115_2005-12-12T14:46:25" verze_ds="04.20.04" verze_nclp="02.71.01"
+	bin_priloha="T" ur="T" typ_odesm="KK" ozn_soub="11115" dat_vb="2008-06-13T14:46:25"
+	potvrzeni="P">
+	<ds:zdroj_is kod_firmy="MEDICALC" kod_prog="WMEXP" verze_prog="2.2.3.8"/>
+	<ds:pm>
+		<ds:as typ="I" poradi="1">
+			<ds:vnitrni>999</ds:vnitrni>
+		</ds:as>
+	</ds:pm>
+	<ds:garant_dat id_garant="450124145" odbornost="801">MUDr. Jan Konečný</ds:garant_dat>
+	<ds:is ico="12345678" icz="44101000" icp="44101882">
+		<ds:as typ="I">
+			<ds:vnitrni>801</ds:vnitrni>
+		</ds:as>
+		<dsip:ip id_pac="7601019991">
+			<dsip:rodcis>7601019991</dsip:rodcis>
+			<dsip:jmeno>Jmeno</dsip:jmeno>
+			<dsip:prijmeni>Prijmeni</dsip:prijmeni>
+			<dsip:dat_dn format="D">1976-01-01</dsip:dat_dn>
+			<dsip:sex>M</dsip:sex>
+			<dsip:pv_pac typ_pv="ZP" dat_ab="2005-12-01T12:53:12">
+				<dsip:pv_zp>
+					<dsip:cispoj>7052024826</dsip:cispoj>
+					<dsip:kodpoj>111</dsip:kodpoj>
+				</dsip:pv_zp>								
+			</dsip:pv_pac>
+			<dsip:ku>
+				<dsip:ku_z duverne="N" fazespec="ZF" idku="MEDICALC.FNPL.1234567891" typku="AMB.VYS">
+					<dsip:dat_prov>2006-12-03T11:00:00</dsip:dat_prov>
+					<dsip:dat_vydani>2006-12-05T11:00:00</dsip:dat_vydani>
+					<dsip:p_pracoviste icz="44101000" icp="44101882" odb="101">
+						<dsip:nazev>Interní ambulance</dsip:nazev>
+					</dsip:p_pracoviste>
+					<dsip:text>
+						<dsip:ptext xml:space="preserve">Nález normální, za 3 týdny doporučena kontrola u praktického lékaře.</dsip:ptext>
+					</dsip:text>
+					<dsip:dg_vys typ_dg="P">
+						<dsip:diag poradi="1">I158</dsip:diag>
+					</dsip:dg_vys>
+					<dsip:auzku indikace="I" typpol_vz="V" diag="I158">
+						<dsip:dat_du typ="A">2006-12-03T11:00:00</dsip:dat_du>
+						<dsip:vykon kod_vykonu="11023" pocet="1" uctujici="O"/>
+						<dsip:p_pracoviste icz="44101000" icp="44101882" odb="101">
+							<dsip:nazev>Interní ambulance</dsip:nazev>
+						</dsip:p_pracoviste>
+					</dsip:auzku>
+				</dsip:ku_z>
+			</dsip:ku>
+		</dsip:ip>
+	</ds:is>
+</ds:dasta>
+
