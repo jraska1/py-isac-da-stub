@@ -22,7 +22,8 @@ def list_database():
 def get_resource():
     doc_id = request.values.get('id') or request.values.get('rc')
     if doc_id:
-        if fn := messages.get(doc_id):
+        fn = messages.get(doc_id)
+        if fn:
             return send_file(fn, mimetype='application/xml')
         else:
             abort(404)
