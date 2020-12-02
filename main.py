@@ -20,10 +20,8 @@ def list_database():
 
 @app.route('/get', methods=['GET', 'POST'])
 def get_resource():
-    doc_id = request.values.get('id') or request.values.get('rc')
-    if doc_id:
-        fn = messages.get(doc_id)
-        if fn:
+    if doc_id := request.values.get('id') or request.values.get('rc'):
+        if fn := messages.get(doc_id):
             return send_file(fn, mimetype='application/xml')
         else:
             abort(404)
@@ -53,10 +51,8 @@ def artiis_patsum():
     if not request.headers.get("Authorization"):
         return 'Bad Authorization header', 400
 
-    doc_id = request.values.get('rc')
-    if doc_id:
-        fn = messages.get(doc_id)
-        if fn:
+    if doc_id := request.values.get('rc'):
+        if fn := messages.get(doc_id):
             return send_file(fn, mimetype='application/xml')
         else:
             abort(404)
@@ -73,8 +69,7 @@ def artiis_beds():
     if not request.headers.get("Authorization"):
         return 'Bad Authorization header', 400
 
-    fn = messages.get('beds')
-    if fn:
+    if fn := messages.get('beds'):
         return send_file(fn, mimetype='application/xml')
     else:
         abort(404)
