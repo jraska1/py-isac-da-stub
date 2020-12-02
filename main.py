@@ -31,7 +31,7 @@ def get_resource():
         abort(400)
 
 
-@app.route('/artiis/getdoc', methods=['POST'])
+@app.route('/artiis/senddoc', methods=['POST'])
 def artiis_senddoc():
     if request.headers.get("Content-Type").lower() != "application/xml; charset=utf-8":
         return 'Bad Content-Type header', 400
