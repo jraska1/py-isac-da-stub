@@ -5,6 +5,7 @@ from lxml import etree
 DASTA_V4_NAMESPACES = {
     'ds':   'urn:cz-mzcr:ns:dasta:ds4:ds_dasta',
     'dsip': 'urn:cz-mzcr:ns:dasta:ds4:ds_ip',
+    'ido':  'urn:cz-mzcr:ns:dasta:ds4:ds_ido',
 }
 
 messages = {
@@ -26,3 +27,7 @@ if __path__:
                     idku = ku_z.attrib.get('idku')
                     if idku:
                         messages[idku] = full_path
+            else:
+                zzs = doc.find("./ds:is/ido:ido/ido:zzs_vl_z", namespaces=DASTA_V4_NAMESPACES)
+                if zzs is not None:
+                    messages['beds'] = full_path

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dasta xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+       id_soubor="STAPRO__Akord_a3ac164145_20150805162100"
+       verze_ds="04.10.01"
+       verze_nclp="02.01.01"
+       bin_priloha="T" ur="R"
+       typ_odesm="NN"
+       ozn_soub="RNN"
+       potvrzeni="N"
+       dat_vb="2015-08-05T16:21:00">
+    <zdroj_is kod_firmy="STAPRO__" kod_prog="Stapro.T" verze_prog="2.6" />
+    <pm icz="99999999">
+        <as typ="I" />
+    </pm>
+    <is icz="26361086">
+        <as typ="I" />
+        <ido xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_ido">
+            <zzs_vl_z stav_prac="P" dat_ab="2015-08-05T16:19:55">
+                <pracoviste icz="99999000" icp="99999020" odb="1H1">
+                    <nazev xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_ip">Interna - lůžka 1</nazev>
+                    <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                        <jmeno>Interna - lůžka 1</jmeno>
+                        <dop1>Interna 1, Ulice 11, 99999, Obec, T</dop1>
+                        <psc>99999</psc>
+                        <mesto>Obec</mesto>
+                    </a>
+                </pracoviste>
+                <zzs_luzka vl_sum="10" />
+            </zzs_vl_z>
+            <zzs_vl_z stav_prac="P" dat_ab="2015-08-05T16:19:55">
+                <pracoviste icz="99999000" icp="99999022" odb="2H9">
+                    <nazev xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_ip">Neurologie lůžka</nazev>
+                    <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                        <jmeno>Neurologie lůžka</jmeno>
+                        <dop1>Neurologie lůžka, Ulice 11, 99999, </dop1>
+                        <psc>99999</psc>
+                        <mesto>Obec</mesto>
+                    </a>
+                </pracoviste>
+                <zzs_luzka vl_sum="20" />
+            </zzs_vl_z>
+            <zzs_vl_z stav_prac="P" dat_ab="2015-08-05T16:19:55">
+                <pracoviste icz="99999000" icp="99999033" odb="5I1">
+                    <nazev xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_ip">Chirurgie JIP</nazev>
+                    <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                        <jmeno>Chirurgie JIP</jmeno>
+                        <dop1>Chirurgie JIP, Ulice 11, 99999, Obe</dop1>
+                        <psc>99999</psc>
+                        <mesto>Obec</mesto>
+                    </a>
+                </pracoviste>
+                <zzs_luzka vl_sum="10" />
+            </zzs_vl_z>
+            <zzs_vl_z stav_prac="P" dat_ab="2015-08-05T16:19:55">
+                <pracoviste icz="99999000" icp="99999054" odb="3H1">
+                    <nazev xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_ip">Dětské 2</nazev>
+                    <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                        <jmeno>Dětské 2</jmeno>
+                        <dop1>Dětské 2, Ulice 11, 99999, Obec, TE</dop1>
+                        <psc>99999</psc>
+                        <mesto>Obec</mesto>
+                    </a>
+                </pracoviste>
+                <zzs_luzka vl_sum="14" />
+            </zzs_vl_z>
+            <zzs_vl_z stav_prac="P" dat_ab="2015-08-05T16:19:55">
+                <pracoviste icz="99999000" icp="99999057" odb="3H4">
+                    <nazev xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_ip">Novorozenecké</nazev>
+                    <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                        <jmeno>Novorozenecké</jmeno>
+                        <dop1>Novorozenecké, Ulice 11, 99999, Obe</dop1>
+                        <psc>99999</psc>
+                        <mesto>Obec</mesto>
+                    </a>
+                </pracoviste>
+                <zzs_luzka vl_sum="15" />
+            </zzs_vl_z>
+            <zzs_vl_z stav_prac="P" dat_ab="2015-08-05T16:19:55">
+                <pracoviste icz="99999000" icp="99999077" odb="5H1">
+                    <nazev xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_ip">Chirurgie 1</nazev>
+                    <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                        <jmeno>Chirurgie 1</jmeno>
+                        <dop1>Chirurgie 1, Ulice 11, 99999, Obec,</dop1>
+                        <psc>99999</psc>
+                        <mesto>Obec</mesto>
+                    </a>
+                </pracoviste>
+                <zzs_luzka vl_sum="20" />
+            </zzs_vl_z>
+            <zzs_vl_z stav_prac="P" dat_ab="2015-08-05T16:19:55">
+                <pracoviste icz="99999000" icp="99999993" odb="6H3">
+                    <nazev xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_ip">Šestinedělí</nazev>
+                    <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                        <jmeno>Šestinedělí</jmeno>
+                        <dop1>Šestinedělí, Ulice 11, 99999, Obec,</dop1>
+                        <psc>99999</psc>
+                        <mesto>Obec</mesto>
+                    </a>
+                </pracoviste>
+                <zzs_luzka vl_sum="16" />
+            </zzs_vl_z>
+            <zzs_vl_z stav_prac="P" dat_ab="2015-08-05T16:19:55">
+                <pracoviste icz="99999000" icp="99999993" odb="6H3">
+                    <nazev xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_ip">Porodnické</nazev>
+                    <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                        <jmeno>Porodnické</jmeno>
+                        <dop1>Porodnické, Ulice 11, 99999, Obec, </dop1>
+                        <psc>99999</psc>
+                        <mesto>Obec</mesto>
+                    </a>
+                </pracoviste>
+                <zzs_luzka vl_sum="14" />
+            </zzs_vl_z>
+        </ido>
+    </is>
+</dasta>
