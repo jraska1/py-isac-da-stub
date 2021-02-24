@@ -1,0 +1,57 @@
+{
+  "id": "9876543210",
+  "datumUmrti": null,
+  "pohlavi": "Muz",
+  "zemeNarozeniKod": "CZ",
+  "mistoNarozeniNazev": "České Budějovice",
+  "obecNarozeniRuianId": 544256,
+  "obvodNarozeniRuianId": null,
+  "jmeno": "Oliver",
+  "prijmeni": "Ouředník",
+  "datumNarozeni": "1990-09-09T00:00:00",
+  "cisloPojistence": "9009092664",
+  "zemeObcanstviKod": "CZ",
+  "zdravotniPojistovnaKod": "209",
+  "kontaktniMobilniTelefon": "607123456",
+  "kontaktniEmail": "oliver.ourednik@example.com",
+  "kontaktniPevnaLinka": null,
+  "adresaText": "Slunečná 1 100 00, Praha 1",
+  "adresaRuianId": 123,
+  "karantena": {
+    "od": "2021-02-19T00:00:00",
+    "do": "2021-02-23T00:00:00"
+  },
+  "izolace": {
+    "od": "2021-02-19T00:00:00",
+    "do": "2021-02-23T00:00:00"
+  },
+  "vysledkyTestuCovid19": [
+    {
+      "typTestuKod": "PCR",
+      "typTestuNazev": "PCR test na COVID-19",
+      "vysledekKod": "N",
+      "vysledekNazev": "Negativní",
+      "datum": "2021-02-10T11:53:00"
+    }
+  ],
+  "zadankyTestuCovid19": [
+    {
+      "typTestuKod": "PCR",
+      "typTestuNazev": "PCR test na COVID-19",
+      "datum": "2021-02-10T11:53:00",
+      "zarizeniIco": "01234567",
+      "zarizeniPcz": "000",
+      "zarizeniNazev": "Testovací ordinace s.r.o."
+    }
+  ],
+  "vakcinace": [
+    {
+      "typOckovaniKod": "CO19",
+      "typOckovaniNazev": "SARS-CoV-2 (ICD 11 XN109, SNOMED CT 840533007)",
+      "ockovaciLatkaKod": "CO01",
+      "ockovaciLatkaNazev": "Comirnaty",
+      "datum": "2021-02-19T10:11:09.607Z",
+      "dokonceno": true
+    }
+  ]
+}

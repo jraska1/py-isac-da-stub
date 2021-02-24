@@ -31,3 +31,5 @@ if __path__:
                 zzs = doc.find("./ds:is/ido:ido/ido:zzs_vl_z", namespaces=DASTA_V4_NAMESPACES)
                 if zzs is not None:
                     messages['beds'] = full_path
+        elif fnmatch.fnmatch(fn, "*.json"):
+            messages[os.path.splitext(fn)[0]] = full_path
