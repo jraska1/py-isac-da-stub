@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dasta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id_soubor="STAPRO__FonsEnterprise_f541341624_202203" verze_ds="04.22.01" verze_nclp="02.73.01" bin_priloha="T" ur="R" typ_odesm="NN" ozn_soub="RNN" potvrzeni="N" dat_vb="2022-03-08T06:43:19" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+    <zdroj_is kod_firmy="STAPRO__" kod_prog="Stapro.T" verze_prog="3.46" />
+    <pm icz="99999999" icp="99999999">
+        <as typ="I" />
+    </pm>
+    <is icz="89903000" icp="89903000">
+        <as typ="I" />
+        <ip xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id_pac="7161264528" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_ip">
+            <rodcis>7161264528</rodcis>
+            <jmeno>Mračena</jmeno>
+            <prijmeni>Mrakomorová</prijmeni>
+            <titul_pred>Ing.</titul_pred>
+            <dat_dn>1971-11-26T00:00:00</dat_dn>
+            <sex>F</sex>
+            <ipi_o cis_is="556b9089-8ee2-4bbb-83fb-1fa7581eb962" />
+            <a typ="1" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                <jmeno>Mrakomorová Mračena, Ing.</jmeno>
+                <adr>Na Lánech 553</adr>
+                <psc>79305</psc>
+                <mesto>Moravský Beroun</mesto>
+                <stat>203</stat>
+                <as typ="E">
+                    <obsah>mracena.mrak@qqgmail.com</obsah>
+                </as>
+                <as typ="B">
+                    <obsah>+420777666444</obsah>
+                </as>
+                <as typ="T">
+                    <obsah>+420123456789</obsah>
+                </as>
+            </a>
+            <a typ="K" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                <o_prijmeni>Mrak Mrakomor</o_prijmeni>
+                <jmeno>Mrak Mrakomor</jmeno>
+                <adr>Masarykovo nám. 52/40</adr>
+                <psc>25101</psc>
+                <mesto>Říčany</mesto>
+                <stat>203</stat>
+                <as typ="E">
+                    <obsah>mrak@mrakomor.cz</obsah>
+                </as>
+                <as typ="B">
+                    <obsah>+420777123123</obsah>
+                </as>
+                <as typ="T">
+                    <obsah>+420323123123</obsah>
+                </as>
+            </a>
+            <a typ="K" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                <o_prijmeni>Merlin Mrakomor</o_prijmeni>
+                <jmeno>Merlin Mrakomor</jmeno>
+                <adr>Trmalova 64</adr>
+                <psc>25101</psc>
+                <mesto>Říčany</mesto>
+                <stat>203</stat>
+                <as typ="E">
+                    <obsah>syn@qgmail.com</obsah>
+                </as>
+                <as typ="B">
+                    <obsah>+420666555444</obsah>
+                </as>
+            </a>
+            <a typ="4" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                <o_prijmeni>MUDr. Ludmila Lékařská</o_prijmeni>
+                <jmeno>MUDr. Ludmila Lékařská</jmeno>
+                <adr>Thomayerova 403/4</adr>
+                <psc>25101</psc>
+                <mesto>Říčany</mesto>
+                <stat>203</stat>
+                <as typ="E">
+                    <obsah>lekar@qgmail.com</obsah>
+                </as>
+                <as typ="B">
+                    <obsah>+420777888999</obsah>
+                </as>
+            </a>
+            <a typ="C" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                <o_prijmeni>Jana Koprová Králová</o_prijmeni>
+                <jmeno>Jana Koprová Králová</jmeno>
+                <adr>Václavské nám. 5</adr>
+                <psc>11000</psc>
+                <mesto>Praha 1</mesto>
+                <stat>203</stat>
+                <as typ="E">
+                    <obsah>jsmith@myprovider.co.uk</obsah>
+                </as>
+                <as typ="B">
+                    <obsah>452070256162</obsah>
+                </as>
+                <as typ="T">
+                    <obsah>452070256161</obsah>
+                </as>
+            </a>
+            <pv_pac typ_pv="X" dat_ab="2022-03-08T06:43:19" />
+            <u>
+                <ua typ="AN" dat_ab="2021-12-20T08:51:55" ind_oprav_sd="N">
+                    <u_al>Laktóza</u_al>
+                    <autor id_autor="136">Stapro Mlejnek Ondřej Ing.</autor>
+                    <dat_du format="D" typ="L">1983-05-05</dat_du>
+                    <iid root="1.2.203.24341.1.10.icz.4" ext="e39a4e6a-b818-41f6-b824-bbcec43d2317" />
+                </ua>
+                <ua typ="AN" dat_ab="2022-02-04T08:32:27" ind_oprav_sd="N">
+                    <u_al>manželka</u_al>
+                    <autor id_autor="771002113">Molnárová Kristýna Ing.</autor>
+                    <iid root="1.2.203.24341.1.10.icz.4" ext="69915be7-3107-4865-aaf3-f9d002ad02aa" />
+                </ua>
+                <ua typ="AN" dat_ab="2021-12-20T08:13:18" ind_oprav_sd="N">
+                    <u_al>Latexové rukavice</u_al>
+                    <autor id_autor="136">Stapro Mlejnek Ondřej Ing.</autor>
+                    <dat_du format="D" typ="L">1990-01-10</dat_du>
+                    <iid root="1.2.203.24341.1.10.icz.4" ext="39a11316-04f8-4dc3-a1ce-199b267986a6" />
+                </ua>
+                <ua typ="AN" dat_ab="2021-12-20T08:45:29" ind_oprav_sd="N">
+                    <u_al>Kiwi</u_al>
+                    <autor id_autor="136">Stapro Mlejnek Ondřej Ing.</autor>
+                    <dat_du format="D" typ="L">1990-01-01</dat_du>
+                    <iid root="1.2.203.24341.1.10.icz.4" ext="a190087d-2638-4d1c-97d0-cfc0ff2bbf78" />
+                </ua>
+                <ua typ="AN" dat_ab="2021-12-20T08:18:25" ind_oprav_sd="N">
+                    <u_al>Latexové rukavice</u_al>
+                    <autor id_autor="136">Stapro Mlejnek Ondřej Ing.</autor>
+                    <dat_du format="D" typ="L">2019-12-12</dat_du>
+                    <iid root="1.2.203.24341.1.10.icz.4" ext="11e0207a-2007-4287-a646-7a57f52af1a7" />
+                </ua>
+                <ua typ="AN" dat_ab="2021-12-20T08:55:50" ind_oprav_sd="N">
+                    <u_al>Acylpyrin</u_al>
+                    <autor id_autor="136">Stapro Mlejnek Ondřej Ing.</autor>
+                    <dat_du format="D" typ="L">1994-03-10</dat_du>
+                    <iid root="1.2.203.24341.1.10.icz.4" ext="f3f8e429-76c4-4f7b-a68f-8b5acfad9a4d" />
+                </ua>
+                <ua typ="AN" dat_ab="2022-02-09T00:30:55" ind_oprav_sd="N">
+                    <u_al>testosteron</u_al>
+                    <autor id_autor="771001662">Jaroš Pavel</autor>
+                    <dat_du format="D" typ="L">2022-02-09</dat_du>
+                    <iid root="1.2.203.24341.1.10.icz.4" ext="0547b70e-e12f-4201-92b3-521782f5dbb0" />
+                </ua>
+                <utm dat_ab="2021-11-30T09:48:39" ind_oprav_sd="N">
+                    <u_tm>0000009 ACYLCOFFIN</u_tm>
+                    <autor id_autor="227">Stapro Tkačík Radim Mgr.</autor>
+                    <dat_du format="D" typ="L">2021-10-04</dat_du>
+                </utm>
+                <utm dat_ab="2019-12-16T15:33:06" ind_oprav_sd="N">
+                    <u_tm>0002679 BERODUAL N</u_tm>
+                    <autor id_autor="136">Stapro Mlejnek Ondřej Ing.</autor>
+                    <dat_du format="D" typ="L">2015-01-02</dat_du>
+                </utm>
+                <utm dat_ab="2021-11-30T09:48:39" ind_oprav_sd="N">
+                    <u_tm>0025593 HUMALOG MIX25</u_tm>
+                    <autor id_autor="227">Stapro Tkačík Radim Mgr.</autor>
+                    <dat_du format="D" typ="L">2012-04-30</dat_du>
+                </utm>
+                <utm dat_ab="2021-12-09T15:01:19" ind_oprav_sd="N">
+                    <u_tm>0107298 0,9% SODIUM CHLORIDE IN WATER FOR INJECTION "FRESENIUS"</u_tm>
+                    <autor id_autor="227">Stapro Tkačík Radim Mgr.</autor>
+                    <dat_du format="D" typ="L">2021-12-09</dat_du>
+                </utm>
+                <utm dat_ab="2021-09-30T08:18:07" ind_oprav_sd="N">
+                    <u_tm>0219994 EUTHYROX</u_tm>
+                    <autor id_autor="136">Stapro Mlejnek Ondřej Ing.</autor>
+                    <dat_du format="D" typ="L">2017-10-06</dat_du>
+                </utm>
+                <utm dat_ab="2021-12-01T11:06:46" ind_oprav_sd="N">
+                    <u_tm>0002050 131I-jodid sodný inj. terap.</u_tm>
+                    <autor id_autor="227">Stapro Tkačík Radim Mgr.</autor>
+                    <dat_du format="D" typ="L">2021-12-01</dat_du>
+                </utm>
+                <uks dat_ab="2022-02-23T15:53:21" ind_oprav_sd="N">
+                    <krevskup>B</krevskup>
+                    <rh>Dw/v</rh>
+                    <autor id_autor="243">Stapro Kristýna Molnárová</autor>
+                    <iid root="1.2.203.24341.1.10.icz.4" ext="1d987f90-4be8-4eb1-86ac-dfa2e7087b9c" />
+                </uks>
+            </u>
+            <an dat_ab="2021-12-09T17:37:04">
+                <text>
+                    <ptext xml:space="preserve">Souhrnná: 
+Text souhrnné anamnézy.
+
+</ptext>
+                </text>
+                <autor id_autor="771001662">Jaroš Pavel</autor>
+            </an>
+            <dg dat_ab="2021-12-10T06:39:34">
+                <dgz typ_dg="T">
+                    <diag mkn_verze="2014" poradi="1" nazev="Diabetes mellitus 2. typu bez komplikací">E119</diag>
+                    <dat_du format="D" typ="L">2012-04-30</dat_du>
+                    <autor id_autor="136">Stapro Mlejnek Ondřej Ing.</autor>
+                    <dat_vb>2012-04-30T10:00:39</dat_vb>
+                    <iid root="1.2.203.24341.1.10.icz.4" ext="5330a83c-ad6f-40c6-b432-5cd727d896f9" />
+                </dgz>
+                <dgz typ_dg="T">
+                    <diag mkn_verze="2014" poradi="2" nazev="Astma převážně alergické">J450</diag>
+                    <dat_du format="D" typ="L">1994-10-03</dat_du>
+                    <autor id_autor="136">Stapro Mlejnek Ondřej Ing.</autor>
+                    <dat_vb>1994-10-03T10:00:39</dat_vb>
+                    <iid root="1.2.203.24341.1.10.icz.4" ext="35102495-c698-468f-8c4f-9b9101527f2c" />
+                </dgz>
+                <dgz typ_dg="T">
+                    <diag mkn_verze="2014" poradi="3" nazev="Hypotyreóza po operačních a jiných výkonech">E890</diag>
+                    <dat_du format="D" typ="L">1997-10-06</dat_du>
+                    <autor id_autor="136">Stapro Mlejnek Ondřej Ing.</autor>
+                    <dat_vb>1997-10-06T10:00:39</dat_vb>
+                    <iid root="1.2.203.24341.1.10.icz.4" ext="b0dbb2b7-c4e5-4a50-997d-0462cc316250" />
+                </dgz>
+                <dgz typ_dg="T">
+                    <diag mkn_verze="2014" poradi="4" nazev="Jiné určené srdeční arytmie">I498</diag>
+                    <dat_du format="D" typ="L">2013-01-09</dat_du>
+                    <autor id_autor="136">Stapro Mlejnek Ondřej Ing.</autor>
+                    <dat_vb>2013-01-09T10:00:39</dat_vb>
+                    <iid root="1.2.203.24341.1.10.icz.4" ext="2326e6a5-5d16-4c02-8a4c-d96ab75e7b32" />
+                </dgz>
+                <dgz typ_dg="T">
+                    <diag mkn_verze="2014" poradi="5" nazev="Těžká preeklampsie">O141</diag>
+                    <dat_du format="D" typ="L">2017-05-06</dat_du>
+                    <autor id_autor="136">Stapro Mlejnek Ondřej Ing.</autor>
+                    <dat_vb>2017-05-06T10:00:39</dat_vb>
+                    <iid root="1.2.203.24341.1.10.icz.4" ext="6d5e0e5e-6a30-46e9-af0a-733fc9ed0e19" />
+                </dgz>
+                <dgz typ_dg="T">
+                    <diag mkn_verze="2014" poradi="6" nazev="Akutní tubulo-intersticiální nefritida">N10</diag>
+                    <dat_du format="D" typ="L">2017-05-07</dat_du>
+                    <autor id_autor="136">Stapro Mlejnek Ondřej Ing.</autor>
+                    <dat_vb>2017-05-07T10:00:39</dat_vb>
+                    <iid root="1.2.203.24341.1.10.icz.4" ext="807e959f-b1a8-4215-a055-fb627b1cd4de" />
+                </dgz>
+                <dgz typ_dg="T">
+                    <diag mkn_verze="2014" poradi="7" nazev="Cystická fibróza NS">E849</diag>
+                    <dat_du format="D" typ="L">2020-10-04</dat_du>
+                    <autor id_autor="136">Stapro Mlejnek Ondřej Ing.</autor>
+                    <dat_vb>2020-10-04T21:43:17</dat_vb>
+                    <iid root="1.2.203.24341.1.10.icz.4" ext="f4769074-4ed5-4eba-8e27-4fe701c3fe27" />
+                </dgz>
+                <dgz typ_dg="T">
+                    <diag mkn_verze="2014" poradi="8" nazev="Opožděný vývoj následující po protein-energetické podvýživě">E45</diag>
+                    <dat_du format="D" typ="L">2020-10-05</dat_du>
+                    <autor id_autor="771001654">Testovací Lékař MUDr.</autor>
+                    <dat_vb>2020-10-05T11:16:02</dat_vb>
+                    <iid root="1.2.203.24341.1.10.icz.4" ext="29c622e6-de27-408c-a709-a3d1cf9ce491" />
+                </dgz>
+                <dgz typ_dg="T">
+                    <diag mkn_verze="2014" poradi="9" nazev="Jiná zvýšená aktivita kůry nadledvin">E270</diag>
+                    <dat_du format="D" typ="L">2020-11-08</dat_du>
+                    <autor id_autor="137">Stapro Jaroš Pavel</autor>
+                    <dat_vb>2020-11-08T21:14:37</dat_vb>
+                    <iid root="1.2.203.24341.1.10.icz.4" ext="3f8f38b6-46a3-4f4f-be68-a9f8ca907bbc" />
+                </dgz>
+                <dgz typ_dg="T">
+                    <diag mkn_verze="2014" poradi="10" nazev="Simulant (vědomá simulace)">Z765</diag>
+                    <dat_du format="D" typ="L">2021-10-04</dat_du>
+                    <autor id_autor="136">Stapro Mlejnek Ondřej Ing.</autor>
+                    <dat_vb>2021-10-04T12:13:46</dat_vb>
+                    <iid root="1.2.203.24341.1.10.icz.4" ext="ce3cb875-a611-433e-b23e-feebbaa137cd" />
+                </dgz>
+                <dgz typ_dg="T">
+                    <diag mkn_verze="2014" poradi="11" nazev="Poruchy způsobené alkoholem - odvykací stav s deliriem">F104</diag>
+                    <dat_du format="D" typ="L">2021-12-09</dat_du>
+                    <autor id_autor="771001662">Jaroš Pavel</autor>
+                    <dat_vb>2021-12-09T17:37:05</dat_vb>
+                    <iid root="1.2.203.24341.1.10.icz.4" ext="4f53693f-bfb4-4478-a713-93b0ecbcce30" />
+                </dgz>
+                <dgz typ_dg="T">
+                    <diag mkn_verze="2014" poradi="12" nazev="Jiné poruchy vývoje zubů">K008</diag>
+                    <dat_du format="D" typ="L">2021-12-10</dat_du>
+                    <autor id_autor="771002113">Molnárová Kristýna Ing.</autor>
+                    <dat_vb>2021-12-10T06:39:07</dat_vb>
+                    <iid root="1.2.203.24341.1.10.icz.4" ext="7682748c-78d5-47c8-9a22-92cb4f36c88c" />
+                </dgz>
+            </dg>
+            <ku>
+                <ku_z typku="SOUPIS.ZPRAV" fazespec="ZK">
+                    <dat_prov>2022-03-08T06:43:19</dat_prov>
+                    <dat_vydani>2022-03-08T06:43:19</dat_vydani>
+                    <p_pracoviste odb="000">
+                        <nazev>Pracoviště</nazev>
+                        <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                            <jmeno>Pracoviště</jmeno>
+                        </a>
+                    </p_pracoviste>
+                    <text>
+                        <ptext xml:space="preserve">SOUPIS.ZPRAV</ptext>
+                    </text>
+                    <ku_z_soupis>
+                        <ku_z_soupis_u typku="AMB.VYS" fazespec="ZK" idku="STAPRO__800F373943FD4181B5270B817A4174A1" idkulok="STAPRO__800F373943FD4181B5270B817A4174A1">
+                            <dat_prov>2022-03-07T10:18:01</dat_prov>
+                            <dat_vydani>2022-03-07T10:18:01</dat_vydani>
+                            <p_pracoviste odb="000">
+                                <nazev>Repositorium Portálu Pacienta</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>Repositorium Portálu Pacienta</jmeno>
+                                </a>
+                            </p_pracoviste>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="AMB.VYS" fazespec="ZK" idku="STAPRO__02BF077E81814FAFB52B2F402141686D" idkulok="STAPRO__02BF077E81814FAFB52B2F402141686D">
+                            <dat_prov>2022-03-07T10:04:05</dat_prov>
+                            <dat_vydani>2022-03-07T10:04:03</dat_vydani>
+                            <p_pracoviste odb="000">
+                                <nazev>Repositorium Portálu Pacienta</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>Repositorium Portálu Pacienta</jmeno>
+                                </a>
+                            </p_pracoviste>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="AMB.VYS" fazespec="ZK" idku="STAPRO__51214803D5D246F6A552FF165C70621E" idkulok="STAPRO__51214803D5D246F6A552FF165C70621E">
+                            <dat_prov>2022-03-04T07:27:11</dat_prov>
+                            <dat_vydani>2022-03-04T07:27:11</dat_vydani>
+                            <p_pracoviste odb="000">
+                                <nazev>Repositorium Portálu Pacienta</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>Repositorium Portálu Pacienta</jmeno>
+                                </a>
+                            </p_pracoviste>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="AMB.VYS" fazespec="ZK" idku="STAPRO__BF1EAC72C63C47FE8ECD1F6D36FBC94C" idkulok="STAPRO__BF1EAC72C63C47FE8ECD1F6D36FBC94C">
+                            <dat_prov>2022-01-10T08:31:26</dat_prov>
+                            <dat_vydani>2022-01-02T18:46:23</dat_vydani>
+                            <p_pracoviste odb="5H1">
+                                <nazev>Chirurgie 1</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>Chirurgie 1</jmeno>
+                                </a>
+                            </p_pracoviste>
+                            <dg_vys typ_dg="P">
+                                <diag mkn_verze="2014" poradi="1" nazev="Nevolnost a únava">R53</diag>
+                                <dat_du format="D" typ="L">2021-12-30</dat_du>
+                                <dat_vb>2021-12-30T13:41:52</dat_vb>
+                            </dg_vys>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="AMB.VYS" fazespec="ZK" idku="STAPRO__54CB0CA230214428AE4DC667389657C7" idkulok="STAPRO__54CB0CA230214428AE4DC667389657C7">
+                            <dat_prov>2021-12-30T13:56:11</dat_prov>
+                            <dat_vydani>2021-12-30T13:55:49</dat_vydani>
+                            <p_pracoviste odb="5H1">
+                                <nazev>Chirurgie 1</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>Chirurgie 1</jmeno>
+                                </a>
+                            </p_pracoviste>
+                            <dg_vys typ_dg="P">
+                                <diag mkn_verze="2014" poradi="1" nazev="Nevolnost a únava">R53</diag>
+                                <dat_du format="D" typ="L">2021-12-30</dat_du>
+                                <dat_vb>2021-12-30T13:41:52</dat_vb>
+                            </dg_vys>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="AMB.VYS" fazespec="ZK" idku="STAPRO__5046AC1D6A4C41AEA2399BD6E0670661" idkulok="STAPRO__5046AC1D6A4C41AEA2399BD6E0670661">
+                            <dat_prov>2021-12-30T13:49:10</dat_prov>
+                            <dat_vydani>2021-12-30T13:48:15</dat_vydani>
+                            <p_pracoviste odb="5H1">
+                                <nazev>Chirurgie 1</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>Chirurgie 1</jmeno>
+                                </a>
+                            </p_pracoviste>
+                            <dg_vys typ_dg="P">
+                                <diag mkn_verze="2014" poradi="1" nazev="Nevolnost a únava">R53</diag>
+                                <dat_du format="D" typ="L">2021-12-30</dat_du>
+                                <dat_vb>2021-12-30T13:41:52</dat_vb>
+                            </dg_vys>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="AMB.VYS" fazespec="ZK" idku="STAPRO__D2F3B3E047E948819B7CFD33BAFE1934" idkulok="STAPRO__D2F3B3E047E948819B7CFD33BAFE1934">
+                            <dat_prov>2021-12-30T13:44:10</dat_prov>
+                            <dat_vydani>2021-12-30T13:42:22</dat_vydani>
+                            <p_pracoviste odb="5H1">
+                                <nazev>Chirurgie 1</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>Chirurgie 1</jmeno>
+                                </a>
+                            </p_pracoviste>
+                            <dg_vys typ_dg="P">
+                                <diag mkn_verze="2014" poradi="1" nazev="Nevolnost a únava">R53</diag>
+                                <dat_du format="D" typ="L">2021-12-30</dat_du>
+                                <dat_vb>2021-12-30T13:41:52</dat_vb>
+                            </dg_vys>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="AMB.VYS" fazespec="ZK" idku="STAPRO__1731BB84A3ED4112808C82105080FE62" idkulok="STAPRO__1731BB84A3ED4112808C82105080FE62">
+                            <dat_prov>2021-10-12T07:57:10</dat_prov>
+                            <dat_vydani>2021-10-01T11:09:20</dat_vydani>
+                            <p_pracoviste odb="5H1">
+                                <nazev>Chirurgie 1</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>Chirurgie 1</jmeno>
+                                </a>
+                            </p_pracoviste>
+                            <dg_vys typ_dg="P">
+                                <diag mkn_verze="2014" poradi="1" nazev="Simulant (vědomá simulace)">Z765</diag>
+                                <dat_du format="D" typ="L">2021-10-01</dat_du>
+                                <dat_vb>2021-10-01T11:08:57</dat_vb>
+                            </dg_vys>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="KARD.EKG" fazespec="ZK" idku="STAPRO__C023A9361FF146E4978AA2773FF65077" idkulok="STAPRO__C023A9361FF146E4978AA2773FF65077">
+                            <dat_prov>2020-12-10T15:44:46</dat_prov>
+                            <dat_vydani>2020-12-10T14:56:14</dat_vydani>
+                            <p_pracoviste odb="5H1">
+                                <nazev>Chirurgie 1</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>Chirurgie 1</jmeno>
+                                </a>
+                            </p_pracoviste>
+                            <dg_vys typ_dg="P">
+                                <diag mkn_verze="2014" poradi="1" nazev="Nevolnost a únava">R53</diag>
+                                <dat_du format="D" typ="L">2020-12-10</dat_du>
+                                <dat_vb>2020-12-10T14:55:50</dat_vb>
+                            </dg_vys>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="KONZ" fazespec="ZK" idku="STAPRO__4A0249777B074EDEAB53189AF0589EBB" idkulok="STAPRO__4A0249777B074EDEAB53189AF0589EBB">
+                            <dat_prov>2022-03-07T12:16:42</dat_prov>
+                            <dat_vydani>2022-03-07T12:16:18</dat_vydani>
+                            <p_pracoviste odb="5H1">
+                                <nazev>Chirurgie 1</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>Chirurgie 1</jmeno>
+                                </a>
+                            </p_pracoviste>
+                        </ku_z_soupis_u>
+                        <dat_vb>2022-03-08T06:43:19</dat_vb>
+                    </ku_z_soupis>
+                </ku_z>
+            </ku>
+        </ip>
+    </is>
+</dasta>
