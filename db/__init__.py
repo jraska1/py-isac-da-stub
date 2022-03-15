@@ -22,8 +22,11 @@ if __path__:
                 id_pac = ip.attrib.get('id_pac')
                 if id_pac:
                     messages[id_pac] = full_path
-                ku_z = ip.find("./dsip:ku/dsip:ku_z", namespaces=DASTA_V4_NAMESPACES)
-                if ku_z is not None:
+                for ku_z in ip.findall("./dsip:ku/dsip:ku_z", namespaces=DASTA_V4_NAMESPACES):
+                    idku = ku_z.attrib.get('idku')
+                    if idku:
+                        messages[idku] = full_path
+                for ku_z in ip.findall("./dsip:ku/dsip:ku_z/dsip:ku_z_soupis/dsip:ku_z_soupis_u", namespaces=DASTA_V4_NAMESPACES):
                     idku = ku_z.attrib.get('idku')
                     if idku:
                         messages[idku] = full_path

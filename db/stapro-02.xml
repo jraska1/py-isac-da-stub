@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<dasta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id_soubor="STAPRO__FonsEnterprise_adc4e0e8a4_202203" verze_ds="04.22.01" verze_nclp="02.73.01" bin_priloha="T" ur="R" typ_odesm="NN" ozn_soub="RNN" potvrzeni="N" dat_vb="2022-03-08T06:58:07" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
-    <zdroj_is kod_firmy="STAPRO__" kod_prog="Stapro.T" verze_prog="3.46" />
+<dasta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id_soubor="STAPRO02FonsEnterprise_adc4e0e8a4_202203" verze_ds="04.22.01" verze_nclp="02.73.01" bin_priloha="T" ur="R" typ_odesm="NN" ozn_soub="RNN" potvrzeni="N" dat_vb="2022-03-08T06:58:07" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+    <zdroj_is kod_firmy="STAPRO02" kod_prog="Stapro.T" verze_prog="3.46" />
     <pm icz="99999999" icp="99999999">
         <as typ="I" />
     </pm>
@@ -268,7 +268,7 @@ Text souhrnné anamnézy.
                 </dgz>
             </dg>
             <ku>
-                <ku_z typku="KONZ" fazespec="ZF" idku="STAPRO__4A0249777B074EDEAB53189AF0589EBB" idsub="SCSOFT__WTgyQjLCPE-0sR0pjnwNrQ__.1" idkulok="STAPRO__4A0249777B074EDEAB53189AF0589EBB">
+                <ku_z typku="KONZ" fazespec="ZF" idku="STAPRO024A0249777B074EDEAB53189AF0589EBB" idsub="SCSOFT__WTgyQjLCPE-0sR0pjnwNrQ__.1" idkulok="STAPRO024A0249777B074EDEAB53189AF0589EBB">
                     <dat_prov>2022-03-07T12:16:42</dat_prov>
                     <dat_vydani>2022-03-07T12:16:18</dat_vydani>
                     <p_pracoviste odb="5H1">
@@ -291,7 +291,7 @@ hh ahoj
 </ptext>
                     </text>
                 </ku_z>
-                <ku_z typku="AMB.VYS" fazespec="ZF" idku="STAPRO__800F373943FD4181B5270B817A4174A1" idsub="SCSOFT__WTgyQjLCPE-0sR0pjnwNrQ__.1" idkulok="STAPRO__800F373943FD4181B5270B817A4174A1">
+                <ku_z typku="AMB.VYS" fazespec="ZF" idku="STAPRO02800F373943FD4181B5270B817A4174A1" idsub="SCSOFT__WTgyQjLCPE-0sR0pjnwNrQ__.1" idkulok="STAPRO02800F373943FD4181B5270B817A4174A1">
                     <dat_prov>2022-03-07T10:18:01</dat_prov>
                     <dat_vydani>2022-03-07T10:18:01</dat_vydani>
                     <p_pracoviste odb="000">
@@ -309,7 +309,7 @@ poslední změna: 07.03.2022 10:18 - Stapro Kristýna Molnárová
 </ptext>
                     </text>
                 </ku_z>
-                <ku_z typku="AMB.VYS" fazespec="ZF" idku="STAPRO__02BF077E81814FAFB52B2F402141686D" idsub="SCSOFT__WTgyQjLCPE-0sR0pjnwNrQ__.1" idkulok="STAPRO__02BF077E81814FAFB52B2F402141686D">
+                <ku_z typku="AMB.VYS" fazespec="ZF" idku="STAPRO0202BF077E81814FAFB52B2F402141686D" idsub="SCSOFT__WTgyQjLCPE-0sR0pjnwNrQ__.1" idkulok="STAPRO0202BF077E81814FAFB52B2F402141686D">
                     <dat_prov>2022-03-07T10:04:05</dat_prov>
                     <dat_vydani>2022-03-07T10:04:03</dat_vydani>
                     <p_pracoviste odb="000">
@@ -327,7 +327,7 @@ poslední změna: 07.03.2022 10:04 - Stapro Kristýna Molnárová
 </ptext>
                     </text>
                 </ku_z>
-                <ku_z typku="AMB.VYS" fazespec="ZF" idku="STAPRO__51214803D5D246F6A552FF165C70621E" idsub="SCSOFT__WTgyQjLCPE-0sR0pjnwNrQ__.1" idkulok="STAPRO__51214803D5D246F6A552FF165C70621E">
+                <ku_z typku="AMB.VYS" fazespec="ZF" idku="STAPRO0251214803D5D246F6A552FF165C70621E" idsub="SCSOFT__WTgyQjLCPE-0sR0pjnwNrQ__.1" idkulok="STAPRO0251214803D5D246F6A552FF165C70621E">
                     <dat_prov>2022-03-04T07:27:11</dat_prov>
                     <dat_vydani>2022-03-04T07:27:11</dat_vydani>
                     <p_pracoviste odb="000">
@@ -345,7 +345,7 @@ xtest 2 format
 </ptext>
                     </text>
                 </ku_z>
-                <ku_z typku="AMB.VYS" fazespec="ZF" idku="STAPRO__BF1EAC72C63C47FE8ECD1F6D36FBC94C" idsub="SCSOFT__WTgyQjLCPE-0sR0pjnwNrQ__.1" idkulok="STAPRO__BF1EAC72C63C47FE8ECD1F6D36FBC94C">
+                <ku_z typku="AMB.VYS" fazespec="ZF" idku="STAPRO02BF1EAC72C63C47FE8ECD1F6D36FBC94C" idsub="SCSOFT__WTgyQjLCPE-0sR0pjnwNrQ__.1" idkulok="STAPRO02BF1EAC72C63C47FE8ECD1F6D36FBC94C">
                     <dat_prov>2022-01-10T08:31:26</dat_prov>
                     <dat_vydani>2022-01-02T18:46:23</dat_vydani>
                     <p_pracoviste odb="5H1">
@@ -367,7 +367,7 @@ xtest 2 format
                         <dat_vb>2021-12-30T13:41:52</dat_vb>
                     </dg_vys>
                 </ku_z>
-                <ku_z typku="AMB.VYS" fazespec="ZF" idku="STAPRO__54CB0CA230214428AE4DC667389657C7" idsub="SCSOFT__WTgyQjLCPE-0sR0pjnwNrQ__.1" idkulok="STAPRO__54CB0CA230214428AE4DC667389657C7">
+                <ku_z typku="AMB.VYS" fazespec="ZF" idku="STAPRO0254CB0CA230214428AE4DC667389657C7" idsub="SCSOFT__WTgyQjLCPE-0sR0pjnwNrQ__.1" idkulok="STAPRO0254CB0CA230214428AE4DC667389657C7">
                     <dat_prov>2021-12-30T13:56:11</dat_prov>
                     <dat_vydani>2021-12-30T13:55:49</dat_vydani>
                     <p_pracoviste odb="5H1">
@@ -389,7 +389,7 @@ xtest 2 format
                         <dat_vb>2021-12-30T13:41:52</dat_vb>
                     </dg_vys>
                 </ku_z>
-                <ku_z typku="AMB.VYS" fazespec="ZF" idku="STAPRO__5046AC1D6A4C41AEA2399BD6E0670661" idsub="SCSOFT__WTgyQjLCPE-0sR0pjnwNrQ__.1" idkulok="STAPRO__5046AC1D6A4C41AEA2399BD6E0670661">
+                <ku_z typku="AMB.VYS" fazespec="ZF" idku="STAPRO025046AC1D6A4C41AEA2399BD6E0670661" idsub="SCSOFT__WTgyQjLCPE-0sR0pjnwNrQ__.1" idkulok="STAPRO025046AC1D6A4C41AEA2399BD6E0670661">
                     <dat_prov>2021-12-30T13:49:10</dat_prov>
                     <dat_vydani>2021-12-30T13:48:15</dat_vydani>
                     <p_pracoviste odb="5H1">
@@ -411,7 +411,7 @@ xtest 2 format
                         <dat_vb>2021-12-30T13:41:52</dat_vb>
                     </dg_vys>
                 </ku_z>
-                <ku_z typku="AMB.VYS" fazespec="ZF" idku="STAPRO__D2F3B3E047E948819B7CFD33BAFE1934" idsub="SCSOFT__WTgyQjLCPE-0sR0pjnwNrQ__.1" idkulok="STAPRO__D2F3B3E047E948819B7CFD33BAFE1934">
+                <ku_z typku="AMB.VYS" fazespec="ZF" idku="STAPRO02D2F3B3E047E948819B7CFD33BAFE1934" idsub="SCSOFT__WTgyQjLCPE-0sR0pjnwNrQ__.1" idkulok="STAPRO02D2F3B3E047E948819B7CFD33BAFE1934">
                     <dat_prov>2021-12-30T13:44:10</dat_prov>
                     <dat_vydani>2021-12-30T13:42:22</dat_vydani>
                     <p_pracoviste odb="5H1">
@@ -433,7 +433,7 @@ xtest 2 format
                         <dat_vb>2021-12-30T13:41:52</dat_vb>
                     </dg_vys>
                 </ku_z>
-                <ku_z typku="AMB.VYS" fazespec="ZF" idku="STAPRO__1731BB84A3ED4112808C82105080FE62" idsub="SCSOFT__WTgyQjLCPE-0sR0pjnwNrQ__.1" idkulok="STAPRO__1731BB84A3ED4112808C82105080FE62">
+                <ku_z typku="AMB.VYS" fazespec="ZF" idku="STAPRO021731BB84A3ED4112808C82105080FE62" idsub="SCSOFT__WTgyQjLCPE-0sR0pjnwNrQ__.1" idkulok="STAPRO021731BB84A3ED4112808C82105080FE62">
                     <dat_prov>2021-10-12T07:57:10</dat_prov>
                     <dat_vydani>2021-10-01T11:09:20</dat_vydani>
                     <p_pracoviste odb="5H1">
@@ -465,7 +465,7 @@ nález
                         <dat_vb>2021-10-01T11:08:57</dat_vb>
                     </dg_vys>
                 </ku_z>
-                <ku_z typku="KARD.EKG" fazespec="ZF" idku="STAPRO__C023A9361FF146E4978AA2773FF65077" idsub="SCSOFT__WTgyQjLCPE-0sR0pjnwNrQ__.1" idkulok="STAPRO__C023A9361FF146E4978AA2773FF65077">
+                <ku_z typku="KARD.EKG" fazespec="ZF" idku="STAPRO02C023A9361FF146E4978AA2773FF65077" idsub="SCSOFT__WTgyQjLCPE-0sR0pjnwNrQ__.1" idkulok="STAPRO02C023A9361FF146E4978AA2773FF65077">
                     <dat_prov>2020-12-10T15:44:46</dat_prov>
                     <dat_vydani>2020-12-10T14:56:14</dat_vydani>
                     <p_pracoviste odb="5H1">
