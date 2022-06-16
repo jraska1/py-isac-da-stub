@@ -80,6 +80,20 @@ def artiis_beds():
         abort(404)
 
 
+@app.route('/sos/rescconfirm', methods=['POST'])
+def sos_rescconfirm():
+    if request.headers.get("Content-Type").lower() != "application/xml; charset=utf-8":
+        return 'Bad Content-Type header', 400
+    if not request.headers.get("Authorization"):
+        return 'Bad Authorization header', 400
+
+    if request.data:
+        print(request.data)
+        return ""
+    else:
+        return 'No Request Body exists', 400
+
+
 @click.command(context_settings=CONTEXT_SETTINGS)
 @click.option('-p', '--port', default=9191, show_default=True, help='Port number the server should run on')
 @click.option('--reload', is_flag=True, default=False, show_default=True, help='Reload the server when source code change')
