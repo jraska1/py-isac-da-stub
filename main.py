@@ -31,6 +31,27 @@ def get_resource():
         abort(400)
 
 
+@app.route('/fnusa/push', methods=['POST'])
+def fnusa_push_resource():
+    if not request.headers.get("Content-Type").lower().startswith("multipart/form-data"):
+        return 'Bad Content-Type header', 400
+    if not request.headers.get("Authorization"):
+        return 'Bad Authorization header', 400
+
+    if request.files:
+        print("FILES: ...")
+        for f in request.files:
+            uploaded = request.files[f]
+            uploaded_file_name = f"uploaded/{f}"
+            print(f"UPLOADED: name='{f}', content-type='{uploaded.content_type}', mimetype='{uploaded.mimetype}', save-to='{uploaded_file_name}'")
+            uploaded.save(uploaded_file_name)
+        print("-" * 40)
+        return ""
+    else:
+        print(">>>>>")
+        return 'No Request Body exists', 400
+
+
 @app.route('/artiis/senddoc', methods=['POST'])
 def artiis_senddoc():
     if request.headers.get("Content-Type").lower() != "application/xml; charset=utf-8":
