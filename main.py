@@ -1,4 +1,5 @@
 import click
+import json
 from flask import Flask, request, abort, send_file, jsonify
 from db import messages
 
@@ -111,6 +112,24 @@ def sos_rescconfirm():
     if request.data:
         print(request.data)
         return ""
+    else:
+        return 'No Request Body exists', 400
+
+
+@app.route('/trans/get', methods=['POST'])
+def trans_get():
+    if request.headers.get("Content-Type").lower() != "application/json":
+        return 'Bad Content-Type header', 400
+    if not request.headers.get("Authorization"):
+        return 'Bad Authorization header', 400
+
+    if request.data:
+        fn = messages.get(request.json['RodneCislo'])
+        if fn:
+            with open(fn) as f:
+                return jsonify({'DastaResponse': f.read()})
+        else:
+            abort(404)
     else:
         return 'No Request Body exists', 400
 

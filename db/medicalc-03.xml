@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ds:dasta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:cz-mzcr:ns:dasta:ds4:ds_dasta http://ciselniky.dasta.mzcr.cz/xmlschema/ds_dasta-4.03.17.xsd urn:cz-mzcr:ns:dasta:ds4:ds_ip http://ciselniky.dasta.mzcr.cz/xmlschema/ds_ip-4.08.04.xsd urn:cz-mzcr:ns:dasta:ds4:ds_ido http://ciselniky.dasta.mzcr.cz/xmlschema/ds_ido-4.02.14.xsd urn:dasta4:medicalc https://www.medicalc.cz/xmlschema/medicalc.xsd" id_soubor="MEDICALC_MEX_6.4.7.0_0000000388630" verze_ds="04.18.03" verze_nclp="02.76.01" bin_priloha="T" ur="R" typ_odesm="NN" ozn_soub="000388630" dat_vb="2023-05-31T08:18:20" potvrzeni="N" xmlns:ds="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+  <ds:zdroj_is kod_firmy="MEDICALC" kod_prog="MEX" verze_prog="6.4.7.0" liccis_prog="FNHK" />
+  <ds:pm>
+    <ds:as typ="I" />
+  </ds:pm>
+  <ds:is>
+    <ds:as typ="I" />
+    <dsip:ip id_pac="7161264528" xmlns:dsip="urn:cz-mzcr:ns:dasta:ds4:ds_ip">
+      <dsip:rodcis>7161264528</dsip:rodcis>
+      <dsip:jmeno>Mračena</dsip:jmeno>
+      <dsip:prijmeni>MRAKOMOROVÁ</dsip:prijmeni>
+      <dsip:dat_dn format="D">1971-11-26</dsip:dat_dn>
+      <dsip:sex>F</dsip:sex>
+      <ds:a typ="1">
+        <ds:jmeno>Mračena MRAKOMOROVÁ</ds:jmeno>
+        <ds:adr>Trmalova 642</ds:adr>
+        <ds:dop1>Jarov</ds:dop1>
+        <ds:psc>33151</ds:psc>
+        <ds:mesto>Kaznějov</ds:mesto>
+        <ds:as typ="B">
+          <ds:obsah>604424992</ds:obsah>
+        </ds:as>
+        <ds:as typ="E">
+          <ds:obsah>ondrej.subrt@medicalc.cz</ds:obsah>
+        </ds:as>
+      </ds:a>
+      <dsip:pv_pac typ_pv="N">
+        <ds:a typ="1">
+          <ds:jmeno>Mračena MRAKOMOROVÁ</ds:jmeno>
+          <ds:adr>Trmalova 642</ds:adr>
+          <ds:dop1>Jarov</ds:dop1>
+          <ds:psc>33151</ds:psc>
+          <ds:mesto>Kaznějov</ds:mesto>
+          <ds:as typ="B">
+            <ds:obsah>604424992</ds:obsah>
+          </ds:as>
+          <ds:as typ="E">
+            <ds:obsah>ondrej.subrt@medicalc.cz</ds:obsah>
+          </ds:as>
+        </ds:a>
+      </dsip:pv_pac>
+      <dsip:p ind_oprav_sd="N" dat_ab="2023-05-31T08:18:20">
+        <dsip:cispoj>7161264528</dsip:cispoj>
+        <dsip:kodpoj>000</dsip:kodpoj>
+        <dsip:dat_od>1992-01-01</dsip:dat_od>
+        <dsip:dat_do>3000-01-01</dsip:dat_do>
+      </dsip:p>
+      <dsip:u>
+        <dsip:ua ind_oprav_sd="N" dat_ab="2023-04-24T14:16:13" typ="AN">
+          <dsip:u_al>latex, laktóza, aspirin, pyl</dsip:u_al>
+          <dsip:autor>Ing. Ondřej  (Medicalc) Šubrt</dsip:autor>
+          <dsip:dat_du format="DT" typ="O">2023-04-24T14:16</dsip:dat_du>
+          <dsip:iid root="ZDRINFOPAC.1475134" />
+        </dsip:ua>
+        <dsip:utm ind_oprav_sd="N">
+          <dsip:u_tm>BERODUAL N 0,02mg/0,05mg/dáv inh sol pss 200dáv, 1 - 0 - 0</dsip:u_tm>
+          <dsip:autor>Ing. Ondřej  (Medicalc) Šubrt</dsip:autor>
+        </dsip:utm>
+        <dsip:utm ind_oprav_sd="N">
+          <dsip:u_tm>HUMALOG MIX25 100u/ml inj sus 5x3ml ZVL, denně</dsip:u_tm>
+          <dsip:autor>Ing. Ondřej  (Medicalc) Šubrt</dsip:autor>
+        </dsip:utm>
+      </dsip:u>
+      <dsip:dg dat_ab="2023-05-31T08:17:23">
+        <dsip:dgz typ_dg="T">
+          <dsip:diag mkn_verze="2014" poradi="1" nazev="Akutní revmatický zánět osrdečníku (akutní revmatická perikarditida)">I010</dsip:diag>
+          <dsip:dat_du typ="A">2023-04-24</dsip:dat_du>
+          <dsip:spec_dg>Akutní revmatický zánět osrdečníku (akutní revmatická perikarditida)</dsip:spec_dg>
+          <dsip:iid root="KLINDG.6185630" />
+        </dsip:dgz>
+        <dsip:dgz typ_dg="T">
+          <dsip:diag mkn_verze="2014" poradi="2" nazev="Hypertenzní nemoc srdce s (městnavým) srdečním selháním">I110</dsip:diag>
+          <dsip:dat_du typ="A">2023-05-31</dsip:dat_du>
+          <dsip:spec_dg>Hypertenzní nemoc srdce s (městnavým) srdečním selháním</dsip:spec_dg>
+          <dsip:iid root="KLINDG.6264061" />
+        </dsip:dgz>
+        <dsip:dgz typ_dg="T">
+          <dsip:diag mkn_verze="2014" poradi="3" nazev="Hypotyreóza po operačních a jiných výkonech">E890</dsip:diag>
+          <dsip:dat_du typ="A">2023-01-03</dsip:dat_du>
+          <dsip:spec_dg>Hypotyreóza po operačních a jiných výkonech</dsip:spec_dg>
+          <dsip:iid root="KLINDG.5958009" />
+        </dsip:dgz>
+        <dsip:dgz typ_dg="T">
+          <dsip:diag mkn_verze="2014" poradi="4" nazev="Diabetes mellitus 2. typu s kómatem">E110</dsip:diag>
+          <dsip:dat_du typ="A">2023-01-03</dsip:dat_du>
+          <dsip:spec_dg>Diabetes mellitus 2. typu s kómatem </dsip:spec_dg>
+          <dsip:iid root="KLINDG.5958011" />
+        </dsip:dgz>
+        <dsip:dgz typ_dg="T">
+          <dsip:diag mkn_verze="2014" poradi="5" nazev="Těžká preeklampsie">O141</dsip:diag>
+          <dsip:dat_du typ="A">2023-01-03</dsip:dat_du>
+          <dsip:spec_dg>Těžká preeklampsie</dsip:spec_dg>
+          <dsip:iid root="KLINDG.5958013" />
+        </dsip:dgz>
+        <dsip:dgz typ_dg="T">
+          <dsip:diag mkn_verze="2014" poradi="6" nazev="Akutní tubulo-intersticiální nefritida">N10</dsip:diag>
+          <dsip:dat_du typ="A">2023-01-03</dsip:dat_du>
+          <dsip:spec_dg>Akutní tubulo-intersticiální nefritida</dsip:spec_dg>
+          <dsip:iid root="KLINDG.5958014" />
+        </dsip:dgz>
+      </dsip:dg>
+      <dsip:ku>
+        <dsip:ku_z typku="PATSUM.DAT" fazespec="ZF" idku="MEDICALC.PS.89.388623" idsub="MEDICALC.PS.89.388623">
+          <dsip:dat_prov>2023-05-31T08:17:23</dsip:dat_prov>
+          <dsip:dat_vydani>2023-05-31T08:18:20</dsip:dat_vydani>
+          <dsip:p_pracoviste icz="61004000" icp="61004000" odb="000">
+            <dsip:nazev>Fakultní nemocnice Hradec Králové</dsip:nazev>
+            <ds:a typ="P">
+              <ds:jmeno>Fakultní nemocnice Hradec Králové</ds:jmeno>
+            </ds:a>
+          </dsip:p_pracoviste>
+          <dsip:zpo icz="61004000">
+            <dsip:nazev>Fakultní nemocnice Hradec Králové</dsip:nazev>
+            <dsip:a_p typ="7">
+              <ds:jmeno>Fakultní nemocnice Hradec Králové</ds:jmeno>
+            </dsip:a_p>
+            <dsip:prijmeni>Pracovník</dsip:prijmeni>
+          </dsip:zpo>
+          <dsip:text>
+            <dsip:ptext xml:space="preserve">Pacientský souhrn - MRAKOMOROVÁ Mračena - 31.5.2023</dsip:ptext>
+          </dsip:text>
+          <dsip:ku_pac id_pac="7161264528">
+            <dsip:jmeno>Mračena</dsip:jmeno>
+            <dsip:prijmeni>MRAKOMOROVÁ</dsip:prijmeni>
+            <dsip:dat_dn format="D">1971-11-26</dsip:dat_dn>
+            <dsip:sex>F</dsip:sex>
+            <ds:a typ="1">
+              <ds:jmeno>Mračena MRAKOMOROVÁ</ds:jmeno>
+              <ds:adr>Trmalova 642</ds:adr>
+              <ds:dop1>Jarov</ds:dop1>
+              <ds:psc>33151</ds:psc>
+              <ds:mesto>Kaznějov</ds:mesto>
+              <ds:as typ="B">
+                <ds:obsah>604424992</ds:obsah>
+              </ds:as>
+              <ds:as typ="E">
+                <ds:obsah>ondrej.subrt@medicalc.cz</ds:obsah>
+              </ds:as>
+            </ds:a>
+          </dsip:ku_pac>
+          <dsip:ku_z_patsumdat>
+            <dsip:u>
+              <dsip:ua ind_oprav_sd="N" dat_ab="2023-04-24T14:16:13" typ="AN">
+                <dsip:u_al>latex, laktóza, aspirin, pyl</dsip:u_al>
+                <dsip:autor>Ing. Ondřej  (Medicalc) Šubrt</dsip:autor>
+                <dsip:dat_du format="DT" typ="O">2023-04-24T14:16</dsip:dat_du>
+                <dsip:iid root="ZDRINFOPAC.1475134" />
+              </dsip:ua>
+              <dsip:utm ind_oprav_sd="N">
+                <dsip:u_tm>BERODUAL N 0,02mg/0,05mg/dáv inh sol pss 200dáv, 1 - 0 - 0</dsip:u_tm>
+                <dsip:autor>Ing. Ondřej  (Medicalc) Šubrt</dsip:autor>
+              </dsip:utm>
+              <dsip:utm ind_oprav_sd="N">
+                <dsip:u_tm>HUMALOG MIX25 100u/ml inj sus 5x3ml ZVL, denně</dsip:u_tm>
+                <dsip:autor>Ing. Ondřej  (Medicalc) Šubrt</dsip:autor>
+              </dsip:utm>
+            </dsip:u>
+            <dsip:an dat_ab="2023-05-31T08:17:23">
+              <dsip:text>
+                <dsip:ptext>
+                </dsip:ptext>
+              </dsip:text>
+            </dsip:an>
+            <dsip:dg dat_ab="2023-05-31T08:17:23">
+              <dsip:dgz typ_dg="T">
+                <dsip:diag mkn_verze="2014" poradi="1" nazev="Akutní revmatický zánět osrdečníku (akutní revmatická perikarditida)">I010</dsip:diag>
+                <dsip:dat_du typ="A">2023-04-24</dsip:dat_du>
+                <dsip:spec_dg>Akutní revmatický zánět osrdečníku (akutní revmatická perikarditida)</dsip:spec_dg>
+                <dsip:iid root="KLINDG.6185630" />
+              </dsip:dgz>
+              <dsip:dgz typ_dg="T">
+                <dsip:diag mkn_verze="2014" poradi="2" nazev="Hypertenzní nemoc srdce s (městnavým) srdečním selháním">I110</dsip:diag>
+                <dsip:dat_du typ="A">2023-05-31</dsip:dat_du>
+                <dsip:spec_dg>Hypertenzní nemoc srdce s (městnavým) srdečním selháním</dsip:spec_dg>
+                <dsip:iid root="KLINDG.6264061" />
+              </dsip:dgz>
+              <dsip:dgz typ_dg="T">
+                <dsip:diag mkn_verze="2014" poradi="3" nazev="Hypotyreóza po operačních a jiných výkonech">E890</dsip:diag>
+                <dsip:dat_du typ="A">2023-01-03</dsip:dat_du>
+                <dsip:spec_dg>Hypotyreóza po operačních a jiných výkonech</dsip:spec_dg>
+                <dsip:iid root="KLINDG.5958009" />
+              </dsip:dgz>
+              <dsip:dgz typ_dg="T">
+                <dsip:diag mkn_verze="2014" poradi="4" nazev="Diabetes mellitus 2. typu s kómatem">E110</dsip:diag>
+                <dsip:dat_du typ="A">2023-01-03</dsip:dat_du>
+                <dsip:spec_dg>Diabetes mellitus 2. typu s kómatem </dsip:spec_dg>
+                <dsip:iid root="KLINDG.5958011" />
+              </dsip:dgz>
+              <dsip:dgz typ_dg="T">
+                <dsip:diag mkn_verze="2014" poradi="5" nazev="Těžká preeklampsie">O141</dsip:diag>
+                <dsip:dat_du typ="A">2023-01-03</dsip:dat_du>
+                <dsip:spec_dg>Těžká preeklampsie</dsip:spec_dg>
+                <dsip:iid root="KLINDG.5958013" />
+              </dsip:dgz>
+              <dsip:dgz typ_dg="T">
+                <dsip:diag mkn_verze="2014" poradi="6" nazev="Akutní tubulo-intersticiální nefritida">N10</dsip:diag>
+                <dsip:dat_du typ="A">2023-01-03</dsip:dat_du>
+                <dsip:spec_dg>Akutní tubulo-intersticiální nefritida</dsip:spec_dg>
+                <dsip:iid root="KLINDG.5958014" />
+              </dsip:dgz>
+            </dsip:dg>
+            <dsip:le typ="A">
+              <dsip:lez typ_med="P" ind_oprav_sd="N" nazev_lek="BERODUAL N 0,02mg/0,05mg/dáv inh sol pss 200dáv" kod_lek="0002679" kod_atc="R03AL01">
+                <dsip:dat_od format="D">2023-01-03</dsip:dat_od>
+                <dsip:dat_do format="D">4954-11-13</dsip:dat_do>
+                <dsip:rozpis_v>1 - 0 - 0</dsip:rozpis_v>
+                <dsip:autor>Ing. Ondřej  (Medicalc) Šubrt</dsip:autor>
+                <dsip:iid root="ORDINLEKY.7283889" />
+              </dsip:lez>
+              <dsip:lez typ_med="P" ind_oprav_sd="N" nazev_lek="HUMALOG MIX25 100u/ml inj sus 5x3ml ZVL" kod_lek="0025596" kod_atc="A10AD04">
+                <dsip:dat_od format="D">2023-01-03</dsip:dat_od>
+                <dsip:dat_do format="D">3001-04-01</dsip:dat_do>
+                <dsip:rozpis_v>denně</dsip:rozpis_v>
+                <dsip:autor>Ing. Ondřej  (Medicalc) Šubrt</dsip:autor>
+                <dsip:iid root="ORDINLEKY.7283885" />
+              </dsip:lez>
+            </dsip:le>
+            <dsip:zdroj_sw kod_firmy="MEDICALC" kod_prog="MEX" verze_prog="6.4.7.0" liccis_prog="FNHK" />
+          </dsip:ku_z_patsumdat>
+        </dsip:ku_z>
+      </dsip:ku>
+    </dsip:ip>
+  </ds:is>
+</ds:dasta>

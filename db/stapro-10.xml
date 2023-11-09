@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dasta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="urn:cz-mzcr:ns:dasta:ds4:ds_dasta http://ciselniky.dasta.mzcr.cz/xmlschema/ds_dasta-4.03.23.xsd urn:cz-mzcr:ns:dasta:ds4:ds_ip http://ciselniky.dasta.mzcr.cz/xmlschema/ds_ip-4.11.01.xsd" id_soubor="STAPRO__Akord_172c78487f_20231103055651" verze_ds="04.22.01" verze_nclp="02.73.01" bin_priloha="T" ur="R" typ_odesm="NN" ozn_soub="RNN" potvrzeni="N" dat_vb="2023-11-03T05:56:51" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+    <zdroj_is kod_firmy="STAPRO__" kod_prog="Stapro.T" verze_prog="3.65" />
+    <pm>
+        <as typ="I" />
+    </pm>
+    <is>
+        <as typ="I" />
+        <a typ="O">
+            <jmeno>Ústav pro péči o matku a dítě</jmeno>
+        </a>
+        <ip xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id_pac="7161264530" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_ip">
+            <rodcis>7161264530</rodcis>
+            <jmeno>Mračena</jmeno>
+            <prijmeni>Mrakomorová</prijmeni>
+            <titul_pred />
+            <dat_dn>1971-11-26T00:00:00</dat_dn>
+            <sex>F</sex>
+            <ipi_o cis_is="586600" />
+            <a typ="1" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                <jmeno>Mrakomorová Mračena</jmeno>
+                <adr>Hurbanova 64/15</adr>
+                <psc>14200</psc>
+                <mesto>Praha,Krč</mesto>
+                <stat>203</stat>
+                <as typ="E">
+                    <obsah>mracena.mrak@qgmail.com</obsah>
+                </as>
+                <as typ="B">
+                    <obsah> +420777036950</obsah>
+                </as>
+            </a>
+            <a typ="3" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                <o_prijmeni>Merlin Mrakomor</o_prijmeni>
+                <jmeno>Merlin Mrakomor</jmeno>
+                <adr>Trmalova 64</adr>
+                <psc>25101</psc>
+                <mesto>Říčany</mesto>
+                <stat>203</stat>
+                <as typ="E">
+                    <obsah>syn@qgmail.com</obsah>
+                </as>
+                <as typ="B">
+                    <obsah> +420666555444</obsah>
+                </as>
+            </a>
+            <a typ="4" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                <o_prijmeni>Ludmila Lékařská</o_prijmeni>
+                <jmeno>Ludmila Lékařská</jmeno>
+                <adr>Thomayerova 403/4</adr>
+                <psc>25101</psc>
+                <mesto>Říčany</mesto>
+                <stat>203</stat>
+                <as typ="E">
+                    <obsah>lekar@qgmail.com</obsah>
+                </as>
+                <as typ="B">
+                    <obsah> +420777888999</obsah>
+                </as>
+            </a>
+            <pv_pac typ_pv="X" dat_ab="2023-11-03T05:56:51" />
+            <u>
+                <ua typ="AN" dat_ab="2023-11-02T09:31:01" ind_oprav_sd="N">
+                    <u_al>A000  Cholera, původce: Vibrio cholerae 01, biotyp cholerae</u_al>
+                    <autor id_autor="12">Josef Plíhal</autor>
+                    <dat_du format="D" typ="L">2023-11-02</dat_du>
+                    <iid root="1.2.203.24341.1.10.04004000.4" ext="35407" />
+                </ua>
+                <ua typ="AN" dat_ab="2023-11-02T09:30:37" ind_oprav_sd="N">
+                    <u_al>I498  Jiné určené srdeční arytmie</u_al>
+                    <autor id_autor="12">Josef Plíhal</autor>
+                    <dat_du format="D" typ="L">2013-01-09</dat_du>
+                    <iid root="1.2.203.24341.1.10.04004000.4" ext="34617" />
+                </ua>
+                <ua typ="AN" dat_ab="2023-11-02T09:30:27" ind_oprav_sd="N">
+                    <u_al>E890  Hypotyreóza po operačních a jiných výkonech</u_al>
+                    <autor id_autor="12">Josef Plíhal</autor>
+                    <dat_du format="D" typ="L">1997-10-06</dat_du>
+                    <iid root="1.2.203.24341.1.10.04004000.4" ext="34616" />
+                </ua>
+                <ua typ="AN" dat_ab="2023-04-05T11:09:07" ind_oprav_sd="N">
+                    <u_al>A230  Brucelóza, původce: Brucella melitensis</u_al>
+                    <autor id_autor="12">Josef Plíhal</autor>
+                    <dat_du format="D" typ="L">2023-04-05</dat_du>
+                    <iid root="1.2.203.24341.1.10.04004000.4" ext="35195" />
+                </ua>
+                <ua typ="AN" dat_ab="2021-10-26T13:26:05" ind_oprav_sd="N">
+                    <u_al>kontaktní:mírná Latex</u_al>
+                    <autor id_autor="11">Stapro - Omasta David</autor>
+                    <dat_du format="D" typ="L">1991-01-10</dat_du>
+                    <iid root="1.2.203.24341.1.10.04004000.4" ext="48708" />
+                </ua>
+                <ua typ="AN" dat_ab="2021-10-26T13:26:05" ind_oprav_sd="N">
+                    <u_al>potravinová:mírná Kiwi</u_al>
+                    <autor id_autor="11">Stapro - Omasta David</autor>
+                    <dat_du format="D" typ="L">1991-01-10</dat_du>
+                    <iid root="1.2.203.24341.1.10.04004000.4" ext="48709" />
+                </ua>
+                <ua typ="AN" dat_ab="2021-10-26T13:26:05" ind_oprav_sd="N">
+                    <u_al>potravinová:mírná Laktóza</u_al>
+                    <autor id_autor="11">Stapro - Omasta David</autor>
+                    <dat_du format="D" typ="L">1983-05-05</dat_du>
+                    <iid root="1.2.203.24341.1.10.04004000.4" ext="48710" />
+                </ua>
+                <ua typ="AN" dat_ab="2021-10-26T13:26:05" ind_oprav_sd="N">
+                    <u_al>léková:těžká Kyselina acetylsalicylová</u_al>
+                    <autor id_autor="11">Stapro - Omasta David</autor>
+                    <dat_du format="D" typ="L">2021-10-26</dat_du>
+                    <iid root="1.2.203.24341.1.10.04004000.4" ext="48711" />
+                </ua>
+                <ua typ="AN" dat_ab="2023-11-02T09:13:28" ind_oprav_sd="N">
+                    <u_al>potravinová:podráždění Lepek</u_al>
+                    <autor id_autor="12">Josef Plíhal</autor>
+                    <dat_du format="D" typ="L">2023-11-02</dat_du>
+                    <iid root="1.2.203.24341.1.10.04004000.4" ext="60783" />
+                </ua>
+                <utm dat_ab="2022-04-26T14:31:59" ind_oprav_sd="N">
+                    <u_tm>0142261</u_tm>
+                    <autor id_autor="11">Stapro - Omasta David</autor>
+                    <dat_du format="D" typ="L">2022-04-26</dat_du>
+                </utm>
+                <utm dat_ab="2021-10-26T13:29:35" ind_oprav_sd="N">
+                    <u_tm>0050117 TRIASYN</u_tm>
+                    <autor id_autor="11">Stapro - Omasta David</autor>
+                    <dat_du format="D" typ="L">2017-05-06</dat_du>
+                </utm>
+                <utm dat_ab="2021-10-26T13:29:35" ind_oprav_sd="N">
+                    <u_tm>0050117 TRIASYN 5/5 MG</u_tm>
+                    <autor id_autor="11">Stapro - Omasta David</autor>
+                    <dat_du format="D" typ="L">2017-05-06</dat_du>
+                </utm>
+                <utm dat_ab="2023-11-02T09:28:19" ind_oprav_sd="N">
+                    <u_tm>0219362 ALECENSA</u_tm>
+                    <autor id_autor="12">Josef Plíhal</autor>
+                    <dat_du format="D" typ="L">2023-11-02</dat_du>
+                </utm>
+                <utm dat_ab="2023-11-02T09:28:19" ind_oprav_sd="N">
+                    <u_tm>0219362 ALECENSA</u_tm>
+                    <autor id_autor="12">Josef Plíhal</autor>
+                    <dat_du format="D" typ="L">2023-11-02</dat_du>
+                </utm>
+                <utm dat_ab="2023-04-14T08:46:32" ind_oprav_sd="N">
+                    <u_tm>0000009 ACYLCOFFIN</u_tm>
+                    <autor id_autor="12">Josef Plíhal</autor>
+                    <dat_du format="D" typ="L">2023-04-14</dat_du>
+                </utm>
+                <uks dat_ab="2023-11-02T08:56:43" ind_oprav_sd="N">
+                    <ks_rh>B+</ks_rh>
+                    <ks_rh_text>B Rh(D) pozitivní</ks_rh_text>
+                    <autor id_autor="12">Josef Plíhal</autor>
+                </uks>
+            </u>
+            <an dat_ab="2022-03-24T10:43:44">
+                <text>
+                    <ptext xml:space="preserve">testyhgfasd fasd f sadf</ptext>
+                </text>
+                <autor id_autor="12">1086</autor>
+                <iid root="1.2.203.24341.1.10.04004000.4" ext="6993238" />
+            </an>
+            <le typ="A" dat_ab="2023-11-02T09:28:19">
+                <lez typ_med="T" ind_oprav_sd="N" nazev_lek="" kod_lek="0142261" cis_kod_lek="DLP">
+                    <dat_od format="D">2022-04-26</dat_od>
+                    <rozpis_v>1-1-1                         </rozpis_v>
+                    <autor id_autor="11">Stapro - Omasta David</autor>
+                    <dat_vb>2022-04-26T14:31:59</dat_vb>
+                    <iid root="1.2.203.24341.1.10.04004000.4" ext="20" />
+                </lez>
+                <lez typ_med="T" ind_oprav_sd="N" nazev_lek="TRIASYN" kod_lek="0050117" cis_kod_lek="DLP">
+                    <dat_od format="D">2017-05-06</dat_od>
+                    <rozpis_v>1-0-0                         </rozpis_v>
+                    <autor id_autor="11">Stapro - Omasta David</autor>
+                    <dat_vb>2021-10-26T13:29:35</dat_vb>
+                    <iid root="1.2.203.24341.1.10.04004000.4" ext="15" />
+                </lez>
+                <lez typ_med="T" ind_oprav_sd="N" nazev_lek="TRIASYN 5/5 MG" kod_lek="0050117" cis_kod_lek="DLP">
+                    <dat_od format="D">2017-05-06</dat_od>
+                    <rozpis_v>1-0-0                         </rozpis_v>
+                    <autor id_autor="11">Stapro - Omasta David</autor>
+                    <dat_vb>2021-10-26T13:29:35</dat_vb>
+                    <iid root="1.2.203.24341.1.10.04004000.4" ext="15" />
+                </lez>
+                <lez typ_med="T" ind_oprav_sd="N" nazev_lek="ALECENSA" kod_lek="0219362" cis_kod_lek="DLP">
+                    <dat_od format="D">2023-11-02</dat_od>
+                    <rozpis_v>1-1-1                         </rozpis_v>
+                    <autor id_autor="12">Josef Plíhal</autor>
+                    <dat_vb>2023-11-02T09:28:19</dat_vb>
+                    <iid root="1.2.203.24341.1.10.04004000.4" ext="23" />
+                </lez>
+                <lez typ_med="T" ind_oprav_sd="N" nazev_lek="ALECENSA" kod_lek="0219362" cis_kod_lek="DLP">
+                    <dat_od format="D">2023-11-02</dat_od>
+                    <rozpis_v>1-1-1                         </rozpis_v>
+                    <autor id_autor="12">Josef Plíhal</autor>
+                    <dat_vb>2023-11-02T09:28:19</dat_vb>
+                    <iid root="1.2.203.24341.1.10.04004000.4" ext="23" />
+                </lez>
+                <lez typ_med="T" ind_oprav_sd="N" nazev_lek="ACYLCOFFIN" kod_lek="0000009" cis_kod_lek="DLP">
+                    <dat_od format="D">2023-04-14</dat_od>
+                    <rozpis_v>12                            </rozpis_v>
+                    <autor id_autor="12">Josef Plíhal</autor>
+                    <dat_vb>2023-04-14T08:46:32</dat_vb>
+                    <iid root="1.2.203.24341.1.10.04004000.4" ext="21" />
+                </lez>
+            </le>
+            <ku>
+                <ku_z typku="SOUPIS.ZPRAV" fazespec="ZK">
+                    <dat_prov>2023-11-03T05:56:51</dat_prov>
+                    <dat_vydani>2023-11-03T05:56:51</dat_vydani>
+                    <p_pracoviste odb="000">
+                        <nazev>Pracoviště</nazev>
+                        <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                            <jmeno>Pracoviště</jmeno>
+                        </a>
+                    </p_pracoviste>
+                    <text>
+                        <ptext xml:space="preserve">SOUPIS.ZPRAV</ptext>
+                    </text>
+                    <ku_z_soupis>
+                        <ku_z_soupis_u typku="AMB.VYS" fazespec="ZK" idku="STAPRO__AKORD_04004000.6856538" idkulok="STAPRO__AKORD_04004000.6856538">
+                            <dat_prov>2022-01-18T11:57:23</dat_prov>
+                            <dat_vydani>2022-01-18T11:57:30</dat_vydani>
+                            <p_pracoviste odb="603">
+                                <nazev>Gynekologická ambulance</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>Gynekologická ambulance</jmeno>
+                                </a>
+                            </p_pracoviste>
+                            <kuzAny>
+                                <id_dokumentu xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_type">1.3.6.1.4.1.20744.3.1.2.2.33.1629478945137.10286</id_dokumentu>
+                            </kuzAny>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="AMB.VYS" fazespec="ZK" idku="STAPRO__AKORD_04004000.6856560" idkulok="STAPRO__AKORD_04004000.6856560">
+                            <dat_prov>2022-01-18T12:05:43</dat_prov>
+                            <dat_vydani>2022-01-18T12:05:52</dat_vydani>
+                            <p_pracoviste odb="603">
+                                <nazev>Gynekologická ambulance</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>Gynekologická ambulance</jmeno>
+                                </a>
+                            </p_pracoviste>
+                            <kuzAny>
+                                <id_dokumentu xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_type">1.3.6.1.4.1.20744.3.1.2.2.33.1629478945137.10299</id_dokumentu>
+                            </kuzAny>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="AMB.VYS" fazespec="ZK" idku="STAPRO__AKORD_04004000.6877056" idkulok="STAPRO__AKORD_04004000.6877056">
+                            <dat_prov>2022-01-27T10:29:26</dat_prov>
+                            <dat_vydani>2022-01-27T10:29:29</dat_vydani>
+                            <p_pracoviste odb="603">
+                                <nazev>Gynekologická ambulance</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>Gynekologická ambulance</jmeno>
+                                </a>
+                            </p_pracoviste>
+                            <kuzAny>
+                                <id_dokumentu xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_type">1.3.6.1.4.1.20744.3.1.2.2.33.1638454801257.1660665</id_dokumentu>
+                            </kuzAny>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="AMB.VYS" fazespec="ZK" idku="STAPRO__AKORD_04004000.6898918" idkulok="STAPRO__AKORD_04004000.6898918">
+                            <dat_prov>2022-02-07T07:03:16</dat_prov>
+                            <dat_vydani>2022-02-07T07:03:29</dat_vydani>
+                            <p_pracoviste odb="603">
+                                <nazev>Gynekologická ambulance</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>Gynekologická ambulance</jmeno>
+                                </a>
+                            </p_pracoviste>
+                            <kuzAny>
+                                <id_dokumentu xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_type">1.3.6.1.4.1.20744.3.1.2.2.33.1638454801257.1705320</id_dokumentu>
+                            </kuzAny>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="AMB.VYS" fazespec="ZK" idku="STAPRO__AKORD_04004000.7187264" idkulok="STAPRO__AKORD_04004000.7187264">
+                            <dat_prov>2022-06-21T10:22:21</dat_prov>
+                            <dat_vydani>2022-06-21T10:26:47</dat_vydani>
+                            <p_pracoviste odb="603">
+                                <nazev>Gynekologická ambulance</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>Gynekologická ambulance</jmeno>
+                                </a>
+                            </p_pracoviste>
+                            <kuzAny>
+                                <id_dokumentu xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_type">1.3.6.1.4.1.20744.3.1.2.2.33.1638454801257.2328786</id_dokumentu>
+                            </kuzAny>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="AMB.VYS" fazespec="ZK" idku="STAPRO__AKORD_04004000.7805795" idkulok="STAPRO__AKORD_04004000.7805795">
+                            <dat_prov>2023-04-06T07:52:53</dat_prov>
+                            <dat_vydani>2023-04-06T07:53:02</dat_vydani>
+                            <p_pracoviste odb="603">
+                                <nazev>Gynekologická ambulance</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>Gynekologická ambulance</jmeno>
+                                </a>
+                            </p_pracoviste>
+                            <kuzAny>
+                                <id_dokumentu xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_type">1.3.6.1.4.1.20744.3.1.2.2.33.1638454801257.8311178</id_dokumentu>
+                            </kuzAny>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="AMB.VYS" fazespec="ZK" idku="STAPRO__AKORD_04004000.7806761" idkulok="STAPRO__AKORD_04004000.7806761">
+                            <dat_prov>2023-04-06T10:29:29</dat_prov>
+                            <dat_vydani>2023-04-06T10:29:49</dat_vydani>
+                            <p_pracoviste odb="603">
+                                <nazev>Gynekologická ambulance</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>Gynekologická ambulance</jmeno>
+                                </a>
+                            </p_pracoviste>
+                            <kuzAny>
+                                <id_dokumentu xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_type">1.3.6.1.4.1.20744.3.1.2.2.33.1638454801257.8311239</id_dokumentu>
+                            </kuzAny>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="AMB.VYS" fazespec="ZK" idku="STAPRO__AKORD_04004000.7820093" idkulok="STAPRO__AKORD_04004000.7820093">
+                            <dat_prov>2023-04-13T17:07:10</dat_prov>
+                            <dat_vydani>2023-04-13T17:07:17</dat_vydani>
+                            <p_pracoviste odb="603">
+                                <nazev>Prenatální ambulance</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>Prenatální ambulance</jmeno>
+                                </a>
+                            </p_pracoviste>
+                            <kuzAny>
+                                <id_dokumentu xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_type">1.3.6.1.4.1.20744.3.1.2.2.33.1638454801257.8340386</id_dokumentu>
+                            </kuzAny>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="AMB.VYS" fazespec="ZK" idku="STAPRO__AKORD_04004000.7820094" idkulok="STAPRO__AKORD_04004000.7820094">
+                            <dat_prov>2023-04-13T17:08:09</dat_prov>
+                            <dat_vydani>2023-04-13T17:08:14</dat_vydani>
+                            <p_pracoviste odb="603">
+                                <nazev>Prenatální ambulance</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>Prenatální ambulance</jmeno>
+                                </a>
+                            </p_pracoviste>
+                            <kuzAny>
+                                <id_dokumentu xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_type">1.3.6.1.4.1.20744.3.1.2.2.33.1638454801257.8340399</id_dokumentu>
+                            </kuzAny>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="AMB.VYS" fazespec="ZK" idku="STAPRO__AKORD_04004000.7845921" idkulok="STAPRO__AKORD_04004000.7845921">
+                            <dat_prov>2023-04-26T09:37:19</dat_prov>
+                            <dat_vydani>2023-04-26T09:37:30</dat_vydani>
+                            <p_pracoviste odb="603">
+                                <nazev>Gynekologická ambulance</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>Gynekologická ambulance</jmeno>
+                                </a>
+                            </p_pracoviste>
+                            <kuzAny>
+                                <id_dokumentu xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_type">1.3.6.1.4.1.20744.3.1.2.2.33.1638454801257.8423768</id_dokumentu>
+                            </kuzAny>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="AMB.VYS" fazespec="ZK" idku="STAPRO__AKORD_04004000.8135915" idkulok="STAPRO__AKORD_04004000.8135915">
+                            <dat_prov>2023-09-12T10:26:24</dat_prov>
+                            <dat_vydani>2023-09-12T10:26:32</dat_vydani>
+                            <p_pracoviste odb="603">
+                                <nazev>Gynekologická ambulance</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>Gynekologická ambulance</jmeno>
+                                </a>
+                            </p_pracoviste>
+                            <kuzAny>
+                                <id_dokumentu xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_type">1.3.6.1.4.1.20744.3.1.2.2.33.1638454801257.8499996</id_dokumentu>
+                            </kuzAny>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="AMB.VYS" fazespec="ZK" idku="STAPRO__AKORD_04004000.8228217" idkulok="STAPRO__AKORD_04004000.8228217">
+                            <dat_prov>2023-10-24T21:30:28</dat_prov>
+                            <dat_vydani>2023-10-24T21:30:39</dat_vydani>
+                            <p_pracoviste odb="603">
+                                <nazev>Gynekologická ambulance</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>Gynekologická ambulance</jmeno>
+                                </a>
+                            </p_pracoviste>
+                            <kuzAny>
+                                <id_dokumentu xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_type">1.3.6.1.4.1.20744.3.1.2.2.33.1638454801257.9230946</id_dokumentu>
+                            </kuzAny>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="AMB.VYS" fazespec="ZK" idku="STAPRO__AKORD_04004000.6914228" idkulok="STAPRO__AKORD_04004000.6914228">
+                            <dat_prov>2022-02-14T10:59:07</dat_prov>
+                            <dat_vydani>2022-02-14T10:59:19</dat_vydani>
+                            <p_pracoviste odb="603">
+                                <nazev>Gynekologická ambulance</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>Gynekologická ambulance</jmeno>
+                                </a>
+                            </p_pracoviste>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="AMB.VYS" fazespec="ZK" idku="STAPRO__AKORD_04004000.6966425" idkulok="STAPRO__AKORD_04004000.6966425">
+                            <dat_prov>2022-03-11T14:59:12</dat_prov>
+                            <dat_vydani>2022-03-11T15:02:52</dat_vydani>
+                            <p_pracoviste odb="603">
+                                <nazev>Gynekologická ambulance</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>Gynekologická ambulance</jmeno>
+                                </a>
+                            </p_pracoviste>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="AMB.VYS" fazespec="ZK" idku="STAPRO__AKORD_04004000.7187238" idkulok="STAPRO__AKORD_04004000.7187238">
+                            <dat_prov>2022-06-21T10:22:21</dat_prov>
+                            <dat_vydani>2022-06-21T10:22:36</dat_vydani>
+                            <p_pracoviste odb="603">
+                                <nazev>Gynekologická ambulance</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>Gynekologická ambulance</jmeno>
+                                </a>
+                            </p_pracoviste>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="AMB.VYS" fazespec="ZK" idku="STAPRO__AKORD_04004000.6755437" idkulok="STAPRO__AKORD_04004000.6755437">
+                            <dat_prov>2021-12-01T14:02:58</dat_prov>
+                            <dat_vydani>2021-12-01T14:02:48</dat_vydani>
+                            <p_pracoviste odb="603">
+                                <nazev>Gynekologická ambulance</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>Gynekologická ambulance</jmeno>
+                                </a>
+                            </p_pracoviste>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="AMB.VYS" fazespec="ZK" idku="STAPRO__AKORD_04004000.6856482" idkulok="STAPRO__AKORD_04004000.6856482">
+                            <dat_prov>2022-01-18T11:43:12</dat_prov>
+                            <dat_vydani>2022-01-18T11:43:21</dat_vydani>
+                            <p_pracoviste odb="603">
+                                <nazev>Gynekologická ambulance</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>Gynekologická ambulance</jmeno>
+                                </a>
+                            </p_pracoviste>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="AMB.VYS" fazespec="ZK" idku="STAPRO__AKORD_04004000.6966437" idkulok="STAPRO__AKORD_04004000.6966437">
+                            <dat_prov>2022-03-11T14:59:12</dat_prov>
+                            <dat_vydani>2022-03-11T15:18:38</dat_vydani>
+                            <p_pracoviste odb="603">
+                                <nazev>Gynekologická ambulance</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>Gynekologická ambulance</jmeno>
+                                </a>
+                            </p_pracoviste>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="AMB.VYS" fazespec="ZK" idku="STAPRO__AKORD_04004000.7187774" idkulok="STAPRO__AKORD_04004000.7187774">
+                            <dat_prov>2022-06-21T13:28:03</dat_prov>
+                            <dat_vydani>2022-06-21T13:28:21</dat_vydani>
+                            <p_pracoviste odb="603">
+                                <nazev>Gynekologická ambulance</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>Gynekologická ambulance</jmeno>
+                                </a>
+                            </p_pracoviste>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="AMB.VYS" fazespec="ZK" idku="STAPRO__AKORD_04004000.6753357" idkulok="STAPRO__AKORD_04004000.6753357">
+                            <dat_prov>2021-11-30T15:19:25</dat_prov>
+                            <dat_vydani>2021-11-30T15:19:13</dat_vydani>
+                            <p_pracoviste odb="603">
+                                <nazev>Gynekologická ambulance</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>Gynekologická ambulance</jmeno>
+                                </a>
+                            </p_pracoviste>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="AMB.VYS" fazespec="ZK" idku="STAPRO__AKORD_04004000.6856488" idkulok="STAPRO__AKORD_04004000.6856488">
+                            <dat_prov>2022-01-18T11:46:26</dat_prov>
+                            <dat_vydani>2022-01-18T11:46:33</dat_vydani>
+                            <p_pracoviste odb="603">
+                                <nazev>Gynekologická ambulance</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>Gynekologická ambulance</jmeno>
+                                </a>
+                            </p_pracoviste>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="AMB.VYS" fazespec="ZK" idku="STAPRO__AKORD_04004000.6677024" idkulok="STAPRO__AKORD_04004000.6677024">
+                            <dat_prov>2021-10-26T13:22:26</dat_prov>
+                            <dat_vydani>2021-10-26T13:23:08</dat_vydani>
+                            <p_pracoviste odb="603">
+                                <nazev>Gynekologická ambulance</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>Gynekologická ambulance</jmeno>
+                                </a>
+                            </p_pracoviste>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="AMB.VYS" fazespec="ZK" idku="STAPRO__AKORD_04004000.6966429" idkulok="STAPRO__AKORD_04004000.6966429">
+                            <dat_prov>2022-03-11T14:59:12</dat_prov>
+                            <dat_vydani>2022-03-11T15:07:57</dat_vydani>
+                            <p_pracoviste odb="603">
+                                <nazev>Gynekologická ambulance</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>Gynekologická ambulance</jmeno>
+                                </a>
+                            </p_pracoviste>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="AMB.VYS" fazespec="ZK" idku="STAPRO__AKORD_04004000.6755436" idkulok="STAPRO__AKORD_04004000.6755436">
+                            <dat_prov>2021-12-01T14:02:09</dat_prov>
+                            <dat_vydani>2021-12-01T14:02:08</dat_vydani>
+                            <p_pracoviste odb="603">
+                                <nazev>Gynekologická ambulance</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>Gynekologická ambulance</jmeno>
+                                </a>
+                            </p_pracoviste>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="AMB.VYS" fazespec="ZK" idku="STAPRO__AKORD_04004000.6736478" idkulok="STAPRO__AKORD_04004000.6736478">
+                            <dat_prov>2021-11-23T10:59:46</dat_prov>
+                            <dat_vydani>2021-11-23T10:59:51</dat_vydani>
+                            <p_pracoviste odb="603">
+                                <nazev>Gynekologická ambulance</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>Gynekologická ambulance</jmeno>
+                                </a>
+                            </p_pracoviste>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="AMB.VYS" fazespec="ZK" idku="STAPRO__AKORD_04004000.6718115" idkulok="STAPRO__AKORD_04004000.6718115">
+                            <dat_prov>2021-10-26T13:22:26</dat_prov>
+                            <dat_vydani>2021-11-15T09:18:31</dat_vydani>
+                            <p_pracoviste odb="603">
+                                <nazev>Gynekologická ambulance</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>Gynekologická ambulance</jmeno>
+                                </a>
+                            </p_pracoviste>
+                            <dg_vys typ_dg="P">
+                                <diag mkn_verze="2014" poradi="1" nazev="Astma převážně alergické">J450 </diag>
+                            </dg_vys>
+                            <dg_vys typ_dg="P">
+                                <diag mkn_verze="2014" poradi="2" nazev="Astma převážně alergické">J450 </diag>
+                            </dg_vys>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="AMB.VYS" fazespec="ZK" idku="STAPRO__AKORD_04004000.7083985" idkulok="STAPRO__AKORD_04004000.7083985">
+                            <dat_prov>2022-05-05T09:15:03</dat_prov>
+                            <dat_vydani>2022-05-05T09:32:47</dat_vydani>
+                            <p_pracoviste odb="603">
+                                <nazev>Gynekologická ambulance</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>Gynekologická ambulance</jmeno>
+                                </a>
+                            </p_pracoviste>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="AMB.VYS" fazespec="ZK" idku="STAPRO__AKORD_04004000.6856486" idkulok="STAPRO__AKORD_04004000.6856486">
+                            <dat_prov>2022-01-18T11:45:36</dat_prov>
+                            <dat_vydani>2022-01-18T11:45:44</dat_vydani>
+                            <p_pracoviste odb="603">
+                                <nazev>Gynekologická ambulance</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>Gynekologická ambulance</jmeno>
+                                </a>
+                            </p_pracoviste>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="AMB.VYS" fazespec="ZK" idku="STAPRO__AKORD_04004000.6718098" idkulok="STAPRO__AKORD_04004000.6718098">
+                            <dat_prov>2021-11-15T09:14:28</dat_prov>
+                            <dat_vydani>2021-11-15T09:14:34</dat_vydani>
+                            <p_pracoviste odb="603">
+                                <nazev>Gynekologická ambulance</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>Gynekologická ambulance</jmeno>
+                                </a>
+                            </p_pracoviste>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="AMB.VYS" fazespec="ZK" idku="STAPRO__AKORD_04004000.6966421" idkulok="STAPRO__AKORD_04004000.6966421">
+                            <dat_prov>2022-03-11T14:59:12</dat_prov>
+                            <dat_vydani>2022-03-11T14:59:30</dat_vydani>
+                            <p_pracoviste odb="603">
+                                <nazev>Gynekologická ambulance</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>Gynekologická ambulance</jmeno>
+                                </a>
+                            </p_pracoviste>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="H.PROPZ" fazespec="ZK" idku="STAPRO__AKORD_04004000.6930759" idkulok="STAPRO__AKORD_04004000.6930759">
+                            <dat_prov>2022-02-22T13:02:36</dat_prov>
+                            <dat_real_od>2021-10-27T17:25:00</dat_real_od>
+                            <dat_real_do>2022-08-24T12:00:00</dat_real_do>
+                            <dat_vydani>2022-02-22T13:02:46</dat_vydani>
+                            <p_pracoviste odb="6P3">
+                                <nazev>P3 - PJIP</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>P3 - PJIP</jmeno>
+                                </a>
+                            </p_pracoviste>
+                            <kuzAny>
+                                <id_dokumentu xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_type">1.3.6.1.4.1.20744.3.1.2.2.33.1638454801257.1750107</id_dokumentu>
+                            </kuzAny>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="H.PROPZ" fazespec="ZK" idku="STAPRO__AKORD_04004000.6932267" idkulok="STAPRO__AKORD_04004000.6932267">
+                            <dat_prov>2022-02-23T08:44:58</dat_prov>
+                            <dat_real_od>2021-10-27T17:25:00</dat_real_od>
+                            <dat_real_do>2022-08-24T12:00:00</dat_real_do>
+                            <dat_vydani>2022-02-23T08:45:10</dat_vydani>
+                            <p_pracoviste odb="6P3">
+                                <nazev>P3 - PJIP</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>P3 - PJIP</jmeno>
+                                </a>
+                            </p_pracoviste>
+                            <kuzAny>
+                                <id_dokumentu xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_type">1.3.6.1.4.1.20744.3.1.2.2.33.1638454801257.1772807</id_dokumentu>
+                            </kuzAny>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="H.PROPZ" fazespec="ZK" idku="STAPRO__AKORD_04004000.7804162" idkulok="STAPRO__AKORD_04004000.7804162">
+                            <dat_prov>2023-04-05T11:09:46</dat_prov>
+                            <dat_real_od>2023-02-08T11:19:00</dat_real_od>
+                            <dat_real_do>2023-03-08T16:39:00</dat_real_do>
+                            <dat_vydani>2023-04-05T11:09:54</dat_vydani>
+                            <p_pracoviste odb="6F3">
+                                <nazev>G3</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>G3</jmeno>
+                                </a>
+                            </p_pracoviste>
+                            <dg_vys typ_dg="P">
+                                <diag mkn_verze="2014" poradi="1" nazev="Astma převážně alergické">J450 </diag>
+                            </dg_vys>
+                            <kuzAny>
+                                <id_dokumentu xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_type">1.3.6.1.4.1.20744.3.1.2.2.33.1638454801257.8298763</id_dokumentu>
+                            </kuzAny>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="H.PROPZ" fazespec="ZK" idku="STAPRO__AKORD_04004000.7820092" idkulok="STAPRO__AKORD_04004000.7820092">
+                            <dat_prov>2023-04-13T17:03:33</dat_prov>
+                            <dat_real_od>2021-10-27T17:25:00</dat_real_od>
+                            <dat_real_do>2022-08-24T12:00:00</dat_real_do>
+                            <dat_vydani>2023-04-13T17:03:44</dat_vydani>
+                            <p_pracoviste odb="6P3">
+                                <nazev>P3 - PJIP</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>P3 - PJIP</jmeno>
+                                </a>
+                            </p_pracoviste>
+                            <kuzAny>
+                                <id_dokumentu xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_type">1.3.6.1.4.1.20744.3.1.2.2.33.1638454801257.8340373</id_dokumentu>
+                            </kuzAny>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="H.PROPZ" fazespec="ZK" idku="STAPRO__AKORD_04004000.8244281" idkulok="STAPRO__AKORD_04004000.8244281">
+                            <dat_prov>2023-11-02T08:50:51</dat_prov>
+                            <dat_real_od>2023-11-01T08:50:00</dat_real_od>
+                            <dat_real_do>2023-11-02T08:56:00</dat_real_do>
+                            <dat_vydani>2023-11-02T08:50:55</dat_vydani>
+                            <p_pracoviste odb="6P3">
+                                <nazev>P3 - PJIP</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>P3 - PJIP</jmeno>
+                                </a>
+                            </p_pracoviste>
+                            <kuzAny>
+                                <id_dokumentu xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_type">1.3.6.1.4.1.20744.3.1.2.2.33.1638454801257.9284716</id_dokumentu>
+                            </kuzAny>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="H.PROPZ" fazespec="ZK" idku="STAPRO__AKORD_04004000.7822315" idkulok="STAPRO__AKORD_04004000.7822315">
+                            <dat_prov>2023-04-14T14:50:57</dat_prov>
+                            <dat_real_od>2023-04-14T14:50:00</dat_real_od>
+                            <dat_real_do>2023-05-10T10:46:00</dat_real_do>
+                            <dat_vydani>2023-04-14T14:51:03</dat_vydani>
+                            <p_pracoviste odb="6P3">
+                                <nazev>P3 - PJIP</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>P3 - PJIP</jmeno>
+                                </a>
+                            </p_pracoviste>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="H.PROPZ" fazespec="ZK" idku="STAPRO__AKORD_04004000.7836619" idkulok="STAPRO__AKORD_04004000.7836619">
+                            <dat_prov>2023-04-21T10:10:36</dat_prov>
+                            <dat_real_od>2023-04-14T14:50:00</dat_real_od>
+                            <dat_real_do>2023-05-10T10:46:00</dat_real_do>
+                            <dat_vydani>2023-04-21T10:11:12</dat_vydani>
+                            <p_pracoviste odb="6P3">
+                                <nazev>P3 - PJIP</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>P3 - PJIP</jmeno>
+                                </a>
+                            </p_pracoviste>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="H.PROPZ" fazespec="ZK" idku="STAPRO__AKORD_04004000.7820091" idkulok="STAPRO__AKORD_04004000.7820091">
+                            <dat_prov>2023-04-13T17:02:23</dat_prov>
+                            <dat_real_od>2021-10-27T17:25:00</dat_real_od>
+                            <dat_real_do>2022-08-24T12:00:00</dat_real_do>
+                            <dat_vydani>2023-04-13T17:02:31</dat_vydani>
+                            <p_pracoviste odb="6P3">
+                                <nazev>P3 - PJIP</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>P3 - PJIP</jmeno>
+                                </a>
+                            </p_pracoviste>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="H.PROPZ" fazespec="ZK" idku="STAPRO__AKORD_04004000.6744470" idkulok="STAPRO__AKORD_04004000.6744470">
+                            <dat_prov>2021-11-26T09:57:56</dat_prov>
+                            <dat_real_od>2021-10-27T17:25:00</dat_real_od>
+                            <dat_real_do>2022-08-24T12:00:00</dat_real_do>
+                            <dat_vydani>2021-11-26T09:58:01</dat_vydani>
+                            <p_pracoviste odb="6P3">
+                                <nazev>P3 - PJIP</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>P3 - PJIP</jmeno>
+                                </a>
+                            </p_pracoviste>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="H.PROPZ" fazespec="ZK" idku="STAPRO__AKORD_04004000.8244312" idkulok="STAPRO__AKORD_04004000.8244312">
+                            <dat_prov>2023-11-02T08:53:21</dat_prov>
+                            <dat_real_od>2023-11-01T08:50:00</dat_real_od>
+                            <dat_real_do>2023-11-02T08:56:00</dat_real_do>
+                            <dat_vydani>2023-11-02T08:54:16</dat_vydani>
+                            <p_pracoviste odb="6P3">
+                                <nazev>P3 - PJIP</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>P3 - PJIP</jmeno>
+                                </a>
+                            </p_pracoviste>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="H.PROPZ" fazespec="ZK" idku="STAPRO__AKORD_04004000.6753356" idkulok="STAPRO__AKORD_04004000.6753356">
+                            <dat_prov>2021-11-30T15:18:14</dat_prov>
+                            <dat_real_od>2021-10-27T17:25:00</dat_real_od>
+                            <dat_real_do>2022-08-24T12:00:00</dat_real_do>
+                            <dat_vydani>2021-11-30T15:18:00</dat_vydani>
+                            <p_pracoviste odb="6P3">
+                                <nazev>P3 - PJIP</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>P3 - PJIP</jmeno>
+                                </a>
+                            </p_pracoviste>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="H.PROPZ" fazespec="ZK" idku="STAPRO__AKORD_04004000.7836620" idkulok="STAPRO__AKORD_04004000.7836620">
+                            <dat_prov>2023-04-21T10:10:36</dat_prov>
+                            <dat_vydani>2023-04-21T10:11:12</dat_vydani>
+                            <p_pracoviste odb="000">
+                                <nazev>Gynekologie Říčany s.r.o.</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>Gynekologie Říčany s.r.o.</jmeno>
+                                </a>
+                            </p_pracoviste>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="H.PROPZ" fazespec="ZK" idku="STAPRO__AKORD_04004000.7822317" idkulok="STAPRO__AKORD_04004000.7822317">
+                            <dat_prov>2023-04-14T14:50:57</dat_prov>
+                            <dat_vydani>2023-04-14T14:51:03</dat_vydani>
+                            <p_pracoviste odb="000">
+                                <nazev>MUDr.Jana Halušková-Gynekologi</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>MUDr.Jana Halušková-Gynekologi</jmeno>
+                                </a>
+                            </p_pracoviste>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="H.PROPZ" fazespec="ZK" idku="STAPRO__AKORD_04004000.6930766" idkulok="STAPRO__AKORD_04004000.6930766">
+                            <dat_prov>2022-02-22T13:05:09</dat_prov>
+                            <dat_real_od>2021-10-27T17:25:00</dat_real_od>
+                            <dat_real_do>2022-08-24T12:00:00</dat_real_do>
+                            <dat_vydani>2022-02-22T13:05:17</dat_vydani>
+                            <p_pracoviste odb="6P3">
+                                <nazev>P3 - PJIP</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>P3 - PJIP</jmeno>
+                                </a>
+                            </p_pracoviste>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="H.PROPZ" fazespec="ZK" idku="STAPRO__AKORD_04004000.7822332" idkulok="STAPRO__AKORD_04004000.7822332">
+                            <dat_prov>2023-04-13T17:03:33</dat_prov>
+                            <dat_real_od>2021-10-27T17:25:00</dat_real_od>
+                            <dat_real_do>2022-08-24T12:00:00</dat_real_do>
+                            <dat_vydani>2023-04-14T14:58:37</dat_vydani>
+                            <p_pracoviste odb="6P3">
+                                <nazev>P3 - PJIP</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>P3 - PJIP</jmeno>
+                                </a>
+                            </p_pracoviste>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="H.PROPZ" fazespec="ZK" idku="STAPRO__AKORD_04004000.6753355" idkulok="STAPRO__AKORD_04004000.6753355">
+                            <dat_prov>2021-11-30T15:17:35</dat_prov>
+                            <dat_real_od>2021-10-27T17:25:00</dat_real_od>
+                            <dat_real_do>2022-08-24T12:00:00</dat_real_do>
+                            <dat_vydani>2021-11-30T15:17:20</dat_vydani>
+                            <p_pracoviste odb="6P3">
+                                <nazev>P3 - PJIP</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>P3 - PJIP</jmeno>
+                                </a>
+                            </p_pracoviste>
+                        </ku_z_soupis_u>
+                        <ku_z_soupis_u typku="H.PROPZ" fazespec="ZK" idku="STAPRO__AKORD_04004000.8244283" idkulok="STAPRO__AKORD_04004000.8244283">
+                            <dat_prov>2023-11-02T08:50:51</dat_prov>
+                            <dat_real_od>2023-11-01T08:50:00</dat_real_od>
+                            <dat_real_do>2023-11-02T08:56:00</dat_real_do>
+                            <dat_vydani>2023-11-02T08:52:31</dat_vydani>
+                            <p_pracoviste odb="6P3">
+                                <nazev>P3 - PJIP</nazev>
+                                <a typ="P" xmlns="urn:cz-mzcr:ns:dasta:ds4:ds_dasta">
+                                    <jmeno>P3 - PJIP</jmeno>
+                                </a>
+                            </p_pracoviste>
+                        </ku_z_soupis_u>
+                        <dat_vb>2023-11-03T05:56:51</dat_vb>
+                    </ku_z_soupis>
+                </ku_z>
+            </ku>
+        </ip>
+    </is>
+</dasta>
