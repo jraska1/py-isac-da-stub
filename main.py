@@ -124,7 +124,8 @@ def trans_get():
         return 'Bad Authorization header', 400
 
     if request.data:
-        fn = messages.get(request.json['RodneCislo'])
+        params = json.loads(request.json)
+        fn = messages.get(params['RodneCislo'])
         if fn:
             with open(fn) as f:
                 return jsonify({'DastaResponse': f.read()})
